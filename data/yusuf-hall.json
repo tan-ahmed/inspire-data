@@ -1,0 +1,14 @@
+{
+  "mosqueName": "Yusuf Hall",
+  "timings": [
+    {
+      "day": "Friday",
+      "date": "31-01-2025",
+      "fajr": "07:00",
+      "zuhr": "12:40   13:20",
+      "asr": "15:15",
+      "magrib": "16:53",
+      "isha": "19:30"
+    }
+  ]
+}

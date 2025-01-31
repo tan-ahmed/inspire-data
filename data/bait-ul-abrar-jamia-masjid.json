@@ -1,0 +1,14 @@
+{
+  "mosqueName": "Bait Ul Abrar Jamia Masjid",
+  "timings": [
+    {
+      "day": "Friday",
+      "date": "31-01-2025",
+      "fajr": "07:15",
+      "zuhr": "13:00   13:20",
+      "asr": "15:15",
+      "magrib": "16:50",
+      "isha": "19:30"
+    }
+  ]
+}
