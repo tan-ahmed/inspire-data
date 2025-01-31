@@ -34,7 +34,8 @@ const baseUrls = [
     "https://www.inspirefm.org/view-prayer-timings/yusuf-hall?refkey=4oT6kawaV6OA9oj",
     "https://www.inspirefm.org/view-prayer-timings/turkish-community-assoc?refkey=NWLVMpvbQxaPYIs",
     "https://www.inspirefm.org/view-prayer-timings/zakariya-masjid?refkey=6NHPZpjAgFaicdr",
-    "https://www.inspirefm.org/view-prayer-timings/zuhri-academy?refkey=isRqMqaSStYbjcp"
+    "https://www.inspirefm.org/view-prayer-timings/zuhri-academy?refkey=isRqMqaSStYbjcp",
+    "https://www.inspirefm.org/view-prayer-timings/luton-islamic-centre?refkey=OWCIb9HCIwj74jN"
 ];
 
 // Ensure data directory exists
