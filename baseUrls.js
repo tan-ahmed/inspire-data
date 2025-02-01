@@ -1,5 +1,5 @@
 // Base URLs (without the month parameter)
-export const baseUrls = [
+const baseUrls = [
     "https://www.inspirefm.org/view-prayer-timings/al-hira-centre?refkey=H69pKMxtH1Kztwe",
     "https://www.inspirefm.org/view-prayer-timings/jalalabad-jamia-masjid?refkey=sUwxYOInm6JyotH",
     "https://www.inspirefm.org/view-prayer-timings/al-jalal-masjid?refkey=j8PEK3D8ML97xM3",
@@ -29,3 +29,6 @@ export const baseUrls = [
     "https://www.inspirefm.org/view-prayer-timings/luton-islamic-centre?refkey=OWCIb9HCIwj74jN"
 ];
 
+module.exports = {
+    baseUrls,
+};
