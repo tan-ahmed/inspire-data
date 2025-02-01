@@ -9,6 +9,7 @@ const baseUrls = [
     "https://www.inspirefm.org/view-prayer-timings/hockwell-ring-masjid?refkey=5ykxLZeGUjOoh8U",
     "https://www.inspirefm.org/view-prayer-timings/farley-hill-masjid?refkey=8H5VvyjFIruMyiw",
     "https://www.inspirefm.org/view-prayer-timings/jamia-islamia-ghousia-trust?refkey=SMnmK9CWUuPdaze",
+    "https://www.inspirefm.org/view-prayer-timings/jamia-al-akbaria?refkey=z9aSnU7xoneCiCW",
     "https://www.inspirefm.org/view-prayer-timings/leagrave-hall-masjid?refkey=NoEtlOSFgfnWqKe",
     "https://www.inspirefm.org/view-prayer-timings/lewsey-community-centre?refkey=Rwc3aJBphwlkNbd",
     "https://www.inspirefm.org/view-prayer-timings/madinah-masjid?refkey=Mg7JBd0Ntm3EX3f",
