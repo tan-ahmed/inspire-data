@@ -2,12 +2,282 @@
   "mosqueName": "Masjid-e-Ali",
   "timings": [
     {
-      "day": "Friday",
-      "date": "28-02-2025",
-      "fajr": "05:19",
-      "zuhr": "12:00",
+      "day": "Saturday",
+      "date": "01-03-2025",
+      "fajr": "05:17",
+      "zuhr": "12:16",
       "asr": "",
-      "magrib": "17:57",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Sunday",
+      "date": "02-03-2025",
+      "fajr": "05:15",
+      "zuhr": "12:16",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Monday",
+      "date": "03-03-2025",
+      "fajr": "05:12",
+      "zuhr": "12:16",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Tuesday",
+      "date": "04-03-2025",
+      "fajr": "05:10",
+      "zuhr": "12:15",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Wednesday",
+      "date": "05-03-2025",
+      "fajr": "05:08",
+      "zuhr": "12:15",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Thursday",
+      "date": "06-03-2025",
+      "fajr": "05:06",
+      "zuhr": "12:15",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Friday",
+      "date": "07-03-2025",
+      "fajr": "05:04",
+      "zuhr": "12:15",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Saturday",
+      "date": "08-03-2025",
+      "fajr": "05:01",
+      "zuhr": "12:14",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Sunday",
+      "date": "09-03-2025",
+      "fajr": "04:59",
+      "zuhr": "12:14",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Monday",
+      "date": "10-03-2025",
+      "fajr": "04:57",
+      "zuhr": "12:14",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Tuesday",
+      "date": "11-03-2025",
+      "fajr": "04:55",
+      "zuhr": "12:14",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Wednesday",
+      "date": "12-03-2025",
+      "fajr": "04:52",
+      "zuhr": "12:13",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Thursday",
+      "date": "13-03-2025",
+      "fajr": "04:50",
+      "zuhr": "12:13",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Friday",
+      "date": "14-03-2025",
+      "fajr": "04:48",
+      "zuhr": "12:13",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Saturday",
+      "date": "15-03-2025",
+      "fajr": "04:45",
+      "zuhr": "12:13",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Sunday",
+      "date": "16-03-2025",
+      "fajr": "04:43",
+      "zuhr": "12:12",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Monday",
+      "date": "17-03-2025",
+      "fajr": "04:41",
+      "zuhr": "12:12",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Tuesday",
+      "date": "18-03-2025",
+      "fajr": "04:38",
+      "zuhr": "12:12",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Wednesday",
+      "date": "19-03-2025",
+      "fajr": "04:36",
+      "zuhr": "12:11",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Thursday",
+      "date": "20-03-2025",
+      "fajr": "04:34",
+      "zuhr": "12:11",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Friday",
+      "date": "21-03-2025",
+      "fajr": "04:31",
+      "zuhr": "12:11",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Saturday",
+      "date": "22-03-2025",
+      "fajr": "04:29",
+      "zuhr": "12:10",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Sunday",
+      "date": "23-03-2025",
+      "fajr": "04:26",
+      "zuhr": "12:10",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Monday",
+      "date": "24-03-2025",
+      "fajr": "04:24",
+      "zuhr": "12:10",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Tuesday",
+      "date": "25-03-2025",
+      "fajr": "04:21",
+      "zuhr": "12:10",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Wednesday",
+      "date": "26-03-2025",
+      "fajr": "04:19",
+      "zuhr": "12:09",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Thursday",
+      "date": "27-03-2025",
+      "fajr": "04:17",
+      "zuhr": "12:09",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Friday",
+      "date": "28-03-2025",
+      "fajr": "04:14",
+      "zuhr": "12:09",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Saturday",
+      "date": "29-03-2025",
+      "fajr": "04:12",
+      "zuhr": "12:08",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Sunday",
+      "date": "30-03-2025",
+      "fajr": "04:09",
+      "zuhr": "12:08",
+      "asr": "",
+      "magrib": "",
+      "isha": ""
+    },
+    {
+      "day": "Monday",
+      "date": "31-03-2025",
+      "fajr": "05:07",
+      "zuhr": "13:08",
+      "asr": "",
+      "magrib": "",
       "isha": ""
     }
   ]
