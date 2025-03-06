@@ -2,15 +2,6 @@
   "mosqueName": "Masjid Bilal",
   "timings": [
     {
-      "day": "Wednesday",
-      "date": "05-03-2025",
-      "fajr": "05:06",
-      "zuhr": "13:00",
-      "asr": "16:30",
-      "magrib": "17:51",
-      "isha": "19:45"
-    },
-    {
       "day": "Thursday",
       "date": "06-03-2025",
       "fajr": "05:04",
