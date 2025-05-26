@@ -2,15 +2,6 @@
   "mosqueName": "Al Jalal Masjid",
   "timings": [
     {
-      "day": "Sunday",
-      "date": "25-05-2025",
-      "fajr": "04:15",
-      "zuhr": "13:30",
-      "asr": "18:45",
-      "magrib": "21:05",
-      "isha": "22:30"
-    },
-    {
       "day": "Monday",
       "date": "26-05-2025",
       "fajr": "04:00",
