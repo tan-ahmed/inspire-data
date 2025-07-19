@@ -2,15 +2,6 @@
   "mosqueName": "Masjid As-Sunnah",
   "timings": [
     {
-      "day": "Friday",
-      "date": "18-07-2025",
-      "fajr": "04:20",
-      "zuhr": "13:30",
-      "asr": "19:15",
-      "magrib": "21:15",
-      "isha": "22:40"
-    },
-    {
       "day": "Saturday",
       "date": "19-07-2025",
       "fajr": "04:20",
