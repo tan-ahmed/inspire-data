@@ -2,15 +2,6 @@
   "mosqueName": "Jalalabad Jamia Masjid",
   "timings": [
     {
-      "day": "Friday",
-      "date": "25-07-2025",
-      "fajr": "04:15",
-      "zuhr": "13:30",
-      "asr": "19:30",
-      "magrib": "21:06",
-      "isha": "23:00"
-    },
-    {
       "day": "Saturday",
       "date": "26-07-2025",
       "fajr": "04:15",
