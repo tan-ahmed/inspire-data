@@ -2,15 +2,6 @@
   "mosqueName": "Al Hira Centre",
   "timings": [
     {
-      "day": "Monday",
-      "date": "28-07-2025",
-      "fajr": "04:45",
-      "zuhr": "13:45",
-      "asr": "19:00",
-      "magrib": "21:01",
-      "isha": "22:30"
-    },
-    {
       "day": "Tuesday",
       "date": "29-07-2025",
       "fajr": "04:45",
