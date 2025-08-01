@@ -1,14 +1,4 @@
 {
   "mosqueName": "Masjid Irshad",
-  "timings": [
-    {
-      "day": "Thursday",
-      "date": "31-07-2025",
-      "fajr": "04:50",
-      "zuhr": "13:30",
-      "asr": "19:00",
-      "magrib": "20:57",
-      "isha": "22:15"
-    }
-  ]
+  "timings": []
 }
