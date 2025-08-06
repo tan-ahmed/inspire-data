@@ -2,15 +2,6 @@
   "mosqueName": "Bury Park Jamia Masjid",
   "timings": [
     {
-      "day": "Tuesday",
-      "date": "05-08-2025",
-      "fajr": "04:45",
-      "zuhr": "13:30",
-      "asr": "19:15",
-      "magrib": "20:48",
-      "isha": "22:30"
-    },
-    {
       "day": "Wednesday",
       "date": "06-08-2025",
       "fajr": "05:00",
