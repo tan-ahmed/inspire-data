@@ -2,15 +2,6 @@
   "mosqueName": "Jamia Al-Akbaria",
   "timings": [
     {
-      "day": "Sunday",
-      "date": "10-08-2025",
-      "fajr": "05:00",
-      "zuhr": "14:00",
-      "asr": "19:00",
-      "magrib": "20:39",
-      "isha": "22:15"
-    },
-    {
       "day": "Monday",
       "date": "11-08-2025",
       "fajr": "05:00",
