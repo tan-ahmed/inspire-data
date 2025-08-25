@@ -49,4 +49,4 @@ jobs:
           git config --global user.email "actions@github.com"
           git add .
           git commit -m "Update prayer timings [skip ci]" || exit 0
-          git push https://oauth2:${INSPIRE_SCRAPER}@github.com/sunnah-apps/inspire-prayer-scraper.git main
+          git push https://oauth2:${INSPIRE_SCRAPER}@github.com/tan-ahmed/inspire-prayer-scraper.git main
