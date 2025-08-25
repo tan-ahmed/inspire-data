@@ -16,27 +16,24 @@ const getCurrentMonth = () => {
   return (currentDate.getMonth() + 1).toString().padStart(2, "0"); // Format as "01", "02", etc.
 };
 
-// Append the month parameter dynamically to URLs
-const addMonthToUrls = (urls) => {
+// Append the month parameter dynamically to mosque configs
+const addMonthToMosqueConfigs = (mosqueConfigs) => {
   const monthFormatted = getCurrentMonth();
-  return urls.map((url) => `${url}&month=${monthFormatted}`);
+  return mosqueConfigs.map((config) => ({
+    ...config,
+    url: `${config.url}&month=${monthFormatted}`,
+  }));
 };
 
-// Fetch with timeout handling
-const fetchWithTimeout = (url, options, timeout = 5000) =>
-  Promise.race([
-    fetch(url, options),
-    new Promise((_, reject) =>
-      setTimeout(() => reject(new Error("Timeout")), timeout)
-    ),
-  ]);
+// HTTP client with timeout and better error handling
+const axios = require("axios");
 
-// Sanitize mosque names to create safe JSON filenames
-const sanitizeFilename = (name) =>
-  name
-    .toLowerCase()
-    .replace(/\s+/g, "-")
-    .replace(/[^a-z0-9-]/g, "") + ".json";
+const httpClient = axios.create({
+  timeout: 10000,
+  headers: {
+    "User-Agent": "Mozilla/5.0 (compatible; PrayerTimesScraper/1.0)",
+  },
+});
 
 // Save data to a JSON file
 const saveToFile = (filePath, data) => {
@@ -44,8 +41,8 @@ const saveToFile = (filePath, data) => {
   console.log(`Data saved to ${filePath}`);
 };
 
-// Generate mosque index from existing data files
-const generateMosqueIndex = (dataDir) => {
+// Generate mosque index from existing data files and mosque configs
+const generateMosqueIndex = (dataDir, mosqueConfigs = []) => {
   const indexData = {
     mosques: [],
     lastUpdated: new Date().toISOString(),
@@ -62,11 +59,17 @@ const generateMosqueIndex = (dataDir) => {
         const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
         const slug = file.replace(".json", "");
 
+        // Find the corresponding mosque config for the URL
+        const mosqueConfig = mosqueConfigs.find(
+          (config) => config.slug === slug
+        );
+
         indexData.mosques.push({
           name: data.mosqueName,
           slug: slug,
           dataFile: `data/${file}`,
           hasData: data.timings && data.timings.length > 0,
+          ...(mosqueConfig && { url: mosqueConfig.url }), // Include URL if available
         });
       } catch (error) {
         console.error(`Error reading ${file}:`, error.message);
@@ -92,9 +95,8 @@ const generateMosqueIndex = (dataDir) => {
 module.exports = {
   ensureDataDirectory,
   getCurrentMonth,
-  addMonthToUrls,
-  fetchWithTimeout,
-  sanitizeFilename,
+  addMonthToMosqueConfigs,
+  httpClient,
   saveToFile,
   generateMosqueIndex,
 };

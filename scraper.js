@@ -2,33 +2,29 @@ const cheerio = require("cheerio");
 const path = require("path");
 const {
   ensureDataDirectory,
-  addMonthToUrls,
-  fetchWithTimeout,
-  sanitizeFilename,
+  addMonthToMosqueConfigs,
+  httpClient,
   saveToFile,
   generateMosqueIndex,
 } = require("./util");
 
-const { baseUrls } = require("./baseUrls");
+const { mosqueUrls } = require("./mosque-urls");
 
 // Ensure data directory exists
 const dataDir = ensureDataDirectory();
 
-// Generate URLs dynamically based on the current month
-const urls = addMonthToUrls(baseUrls);
+// Generate mosque configs with URLs dynamically based on the current month
+const mosqueConfigsWithMonth = addMonthToMosqueConfigs(mosqueUrls);
 
-// Function to scrape a single URL
-const scrapePrayerTimings = async (url) => {
+// Function to scrape a single mosque
+const scrapePrayerTimings = async (config) => {
   try {
-    const response = await fetchWithTimeout(url, {}, 10000);
-    if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
-
-    const html = await response.text();
+    const response = await httpClient.get(config.url);
+    const html = response.data;
     const $ = cheerio.load(html);
 
-    let mosqueName = $("h3.text-center span.color-green").text().trim();
-    const fileName = sanitizeFilename(mosqueName);
-    const filePath = path.join(dataDir, fileName);
+    const mosqueName = $("h3.text-center span.color-green").text().trim();
+    const filePath = path.join(dataDir, `${config.slug}.json`);
 
     const timings = [];
 
@@ -49,20 +45,37 @@ const scrapePrayerTimings = async (url) => {
 
     saveToFile(filePath, { mosqueName, timings });
   } catch (error) {
-    console.error(`Error scraping ${url}:`, error.message);
+    const errorMsg = error.response?.status
+      ? `HTTP ${error.response.status}`
+      : error.message;
+    console.error(`Error scraping ${config.slug}: ${errorMsg}`);
   }
 };
 
-// Main function to scrape all URLs
+// Main function to scrape all mosques with concurrent processing
 const scrapeAll = async () => {
-  console.log(`Starting to scrape ${urls.length} mosques...`);
+  console.log(`Starting to scrape ${mosqueConfigsWithMonth.length} mosques...`);
 
-  for (const url of urls) {
-    await scrapePrayerTimings(url);
+  // Process in batches of 5 to avoid overwhelming the server
+  const batchSize = 5;
+  for (let i = 0; i < mosqueConfigsWithMonth.length; i += batchSize) {
+    const batch = mosqueConfigsWithMonth.slice(i, i + batchSize);
+    console.log(
+      `Processing batch ${Math.floor(i / batchSize) + 1}/${Math.ceil(
+        mosqueConfigsWithMonth.length / batchSize
+      )}...`
+    );
+
+    await Promise.all(batch.map((config) => scrapePrayerTimings(config)));
+
+    // Small delay between batches to be respectful
+    if (i + batchSize < mosqueConfigsWithMonth.length) {
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+    }
   }
 
   console.log("Scraping completed. Generating mosque index...");
-  generateMosqueIndex(dataDir);
+  generateMosqueIndex(dataDir, mosqueUrls);
   console.log("All done!");
 };
 
