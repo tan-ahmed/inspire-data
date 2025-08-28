@@ -64,11 +64,15 @@ const generateMosqueIndex = (dataDir, mosqueConfigs = []) => {
           (config) => config.slug === slug
         );
 
+        // Generate Jummah schedule from the timing data
+        const jummahSchedule = generateJummahSchedule(data.timings);
+
         indexData.mosques.push({
           name: data.mosqueName,
           slug: slug,
           dataFile: `data/${file}`,
           hasData: data.timings && data.timings.length > 0,
+          jummahSchedule: jummahSchedule,
         });
       } catch (error) {
         console.error(`Error reading ${file}:`, error.message);
@@ -89,6 +93,51 @@ const generateMosqueIndex = (dataDir, mosqueConfigs = []) => {
     console.error("Error generating mosque index:", error.message);
     return null;
   }
+};
+
+// Generate Jummah schedule from timing data
+const generateJummahSchedule = (timings) => {
+  if (!timings || !Array.isArray(timings)) {
+    return [];
+  }
+
+  const jummahSchedule = [];
+
+  // Find all Fridays and extract Jummah times
+  timings.forEach((timing) => {
+    if (timing.day && timing.day.toLowerCase() === "friday" && timing.zuhr) {
+      const jummahTimes = extractJummahTimesFromZuhr(timing.zuhr);
+
+      // If multiple times found, use them
+      if (jummahTimes.length > 0) {
+        jummahSchedule.push({
+          date: timing.date,
+          times: jummahTimes,
+        });
+      } else {
+        // Single Jummah time - use the zuhr time as is
+        jummahSchedule.push({
+          date: timing.date,
+          times: [timing.zuhr.trim()],
+        });
+      }
+    }
+  });
+
+  return jummahSchedule;
+};
+
+// Helper to extract Jummah times from zuhr field
+const extractJummahTimesFromZuhr = (zuhrTime) => {
+  if (!zuhrTime || !zuhrTime.includes("   ")) {
+    return [];
+  }
+
+  const times = zuhrTime
+    .split(/\s{2,}/)
+    .map((t) => t.trim())
+    .filter((t) => t);
+  return times.length > 1 ? times : [];
 };
 
 module.exports = {
