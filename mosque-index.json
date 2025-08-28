@@ -4,197 +4,169 @@
       "name": "Al Hira Centre",
       "slug": "al-hira-centre",
       "dataFile": "data/al-hira-centre.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/al-hira-centre?refkey=H69pKMxtH1Kztwe"
+      "hasData": true
     },
     {
       "name": "Al Jalal Masjid",
       "slug": "al-jalal-masjid",
       "dataFile": "data/al-jalal-masjid.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/al-jalal-masjid?refkey=j8PEK3D8ML97xM3"
+      "hasData": true
     },
     {
       "name": "Bait Ul Abrar Jamia Masjid",
       "slug": "bait-ul-abrar-jamia-masjid",
       "dataFile": "data/bait-ul-abrar-jamia-masjid.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/bait-ul-abrar-jamia-masjid?refkey=dkuKAhYnSNXGvqn"
+      "hasData": true
     },
     {
       "name": "Bury Park Jamia Masjid",
       "slug": "bury-park-jamia-masjid",
       "dataFile": "data/bury-park-jamia-masjid.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/bury-park-jamia-masjid?refkey=G81ehjaJ7fP5ih6"
+      "hasData": true
     },
     {
       "name": "Faizan-e-Mushkil Kusha",
       "slug": "faizan-e-mushkil-kusha",
       "dataFile": "data/faizan-e-mushkil-kusha.json",
-      "hasData": false,
-      "url": "https://www.inspirefm.org/view-prayer-timings/faizan-e-mushkil-kusha?refkey=vCoQLkUuXU5yO09"
+      "hasData": false
     },
     {
       "name": "Farley Hill Masjid",
       "slug": "farley-hill-masjid",
       "dataFile": "data/farley-hill-masjid.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/farley-hill-masjid?refkey=8H5VvyjFIruMyiw"
+      "hasData": true
     },
     {
       "name": "Hockwell Ring Masjid",
       "slug": "hockwell-ring-masjid",
       "dataFile": "data/hockwell-ring-masjid.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/hockwell-ring-masjid?refkey=5ykxLZeGUjOoh8U"
+      "hasData": true
     },
     {
       "name": "Jalalabad Jamia Masjid",
       "slug": "jalalabad-jamia-masjid",
       "dataFile": "data/jalalabad-jamia-masjid.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/jalalabad-jamia-masjid?refkey=sUwxYOInm6JyotH"
+      "hasData": true
     },
     {
       "name": "Jamia Al-Akbaria",
       "slug": "jamia-al-akbaria",
       "dataFile": "data/jamia-al-akbaria.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/jamia-al-akbaria?refkey=z9aSnU7xoneCiCW"
+      "hasData": true
     },
     {
       "name": "Jamia Islamia Ghousia Trust",
       "slug": "jamia-islamia-ghousia-trust",
       "dataFile": "data/jamia-islamia-ghousia-trust.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/jamia-islamia-ghousia-trust?refkey=SMnmK9CWUuPdaze"
+      "hasData": true
     },
     {
       "name": "Kokni Masjid",
       "slug": "kokni-masjid",
       "dataFile": "data/kokni-masjid.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/kokni-masjid?refkey=e31KjldaiV1piny"
+      "hasData": true
     },
     {
       "name": "Leagrave Hall Masjid",
       "slug": "leagrave-hall-masjid",
       "dataFile": "data/leagrave-hall-masjid.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/leagrave-hall-masjid?refkey=NoEtlOSFgfnWqKe"
+      "hasData": true
     },
     {
       "name": "Lewsey Community Centre",
       "slug": "lewsey-community-centre",
       "dataFile": "data/lewsey-community-centre.json",
-      "hasData": false,
-      "url": "https://www.inspirefm.org/view-prayer-timings/lewsey-community-centre?refkey=Rwc3aJBphwlkNbd"
+      "hasData": false
     },
     {
       "name": "Luton Central Masjid",
       "slug": "luton-central-masjid",
       "dataFile": "data/luton-central-masjid.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/luton-central-masjid?refkey=W9DeMtrs5IOnSKe"
+      "hasData": true
     },
     {
       "name": "Luton Islamic Centre",
       "slug": "luton-islamic-centre",
       "dataFile": "data/luton-islamic-centre.json",
-      "hasData": false,
-      "url": "https://www.inspirefm.org/view-prayer-timings/luton-islamic-centre?refkey=OWCIb9HCIwj74jN"
+      "hasData": false
     },
     {
       "name": "Madinah Masjid",
       "slug": "madinah-masjid",
       "dataFile": "data/madinah-masjid.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/madinah-masjid?refkey=Mg7JBd0Ntm3EX3f"
+      "hasData": true
     },
     {
       "name": "Masjid Al-Huda",
       "slug": "masjid-al-huda",
       "dataFile": "data/masjid-al-huda.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/masjid-al-huda?refkey=Zca8cRxIOQBAucL"
+      "hasData": true
     },
     {
       "name": "Masjid As-Sunnah",
       "slug": "masjid-as-sunnah",
       "dataFile": "data/masjid-as-sunnah.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/masjid-as-sunnah?refkey=4k5QdbC1Z1DVB9e"
+      "hasData": true
     },
     {
       "name": "Masjid Bilal",
       "slug": "masjid-bilal",
       "dataFile": "data/masjid-bilal.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/masjid-bilal?refkey=FQEhRGD3UvmSZPw"
+      "hasData": true
     },
     {
       "name": "Masjid Irshad",
       "slug": "masjid-irshad",
       "dataFile": "data/masjid-irshad.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/masjid-irshad?refkey=CjpkjmLW4S6vaTj"
+      "hasData": true
     },
     {
       "name": "Masjid Suffa-Tul-Islam",
       "slug": "masjid-suffa-tul-islam",
       "dataFile": "data/masjid-suffa-tul-islam.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/masjid-suffa-tul-islam?refkey=wXzyqvR4jtutql3"
+      "hasData": true
     },
     {
       "name": "Masjid-e-Ali",
       "slug": "masjid-e-ali",
       "dataFile": "data/masjid-e-ali.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/masjid-e-ali?refkey=1YUVYu1jnwl6Ugr"
+      "hasData": true
     },
     {
       "name": "Masjid-e-Noor",
       "slug": "masjid-e-noor",
       "dataFile": "data/masjid-e-noor.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/masjid-e-noor?refkey=jmwgz9T4vEaeLPq"
+      "hasData": true
     },
     {
       "name": "Saints Area Masjid",
       "slug": "saints-area-masjid",
       "dataFile": "data/saints-area-masjid.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/saints-area-masjid?refkey=HnualvqjTQSsQni"
+      "hasData": true
     },
     {
       "name": "Turkish Community Assoc",
       "slug": "turkish-community-assoc",
       "dataFile": "data/turkish-community-assoc.json",
-      "hasData": false,
-      "url": "https://www.inspirefm.org/view-prayer-timings/turkish-community-assoc?refkey=NWLVMpvbQxaPYIs"
+      "hasData": false
     },
     {
       "name": "Yusuf Hall",
       "slug": "yusuf-hall",
       "dataFile": "data/yusuf-hall.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/yusuf-hall?refkey=4oT6kawaV6OA9oj"
+      "hasData": true
     },
     {
       "name": "Zakariya Masjid",
       "slug": "zakariya-masjid",
       "dataFile": "data/zakariya-masjid.json",
-      "hasData": true,
-      "url": "https://www.inspirefm.org/view-prayer-timings/zakariya-masjid?refkey=6NHPZpjAgFaicdr"
+      "hasData": true
     },
     {
       "name": "Zuhri Academy",
       "slug": "zuhri-academy",
       "dataFile": "data/zuhri-academy.json",
-      "hasData": false,
-      "url": "https://www.inspirefm.org/view-prayer-timings/zuhri-academy?refkey=isRqMqaSStYbjcp"
+      "hasData": false
     }
   ],
   "lastUpdated": "2025-08-28T00:32:23.192Z"

@@ -69,7 +69,6 @@ const generateMosqueIndex = (dataDir, mosqueConfigs = []) => {
           slug: slug,
           dataFile: `data/${file}`,
           hasData: data.timings && data.timings.length > 0,
-          ...(mosqueConfig && { url: mosqueConfig.url }), // Include URL if available
         });
       } catch (error) {
         console.error(`Error reading ${file}:`, error.message);
