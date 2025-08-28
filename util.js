@@ -1,7 +1,10 @@
 const fs = require("fs");
 const path = require("path");
 
-// Ensure the data directory exists
+/**
+ * Ensures the data directory exists and creates it if it doesn't
+ * @returns {string} The path to the data directory
+ */
 const ensureDataDirectory = () => {
   const dataDir = path.join(__dirname, "data");
   if (!fs.existsSync(dataDir)) {
@@ -10,13 +13,20 @@ const ensureDataDirectory = () => {
   return dataDir;
 };
 
-// Get the current month dynamically
+/**
+ * Gets the current month as a zero-padded string
+ * @returns {string} Current month formatted as "01", "02", etc.
+ */
 const getCurrentMonth = () => {
   const currentDate = new Date();
   return (currentDate.getMonth() + 1).toString().padStart(2, "0"); // Format as "01", "02", etc.
 };
 
-// Append the month parameter dynamically to mosque configs
+/**
+ * Appends the current month parameter to mosque config URLs
+ * @param {Array<{slug: string, url: string, name: string}>} mosqueConfigs - Array of mosque configuration objects
+ * @returns {Array<{slug: string, url: string, name: string}>} Updated configs with month parameter added to URLs
+ */
 const addMonthToMosqueConfigs = (mosqueConfigs) => {
   const monthFormatted = getCurrentMonth();
   return mosqueConfigs.map((config) => ({
@@ -35,13 +45,22 @@ const httpClient = axios.create({
   },
 });
 
-// Save data to a JSON file
+/**
+ * Saves data to a JSON file with pretty formatting
+ * @param {string} filePath - The path where the file should be saved
+ * @param {Object} data - The data object to save as JSON
+ */
 const saveToFile = (filePath, data) => {
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
   console.log(`Data saved to ${filePath}`);
 };
 
-// Generate mosque index from existing data files and mosque configs
+/**
+ * Generates a consolidated mosque index from existing data files
+ * @param {string} dataDir - Path to the directory containing mosque data files
+ * @param {Array<{slug: string, url: string, name: string}>} mosqueConfigs - Array of mosque configuration objects
+ * @returns {string|null} Path to the generated index file, or null if an error occurred
+ */
 const generateMosqueIndex = (dataDir, mosqueConfigs = []) => {
   const indexData = {
     mosques: [],
@@ -95,7 +114,11 @@ const generateMosqueIndex = (dataDir, mosqueConfigs = []) => {
   }
 };
 
-// Generate Jummah schedule from timing data
+/**
+ * Generates a Jummah schedule by extracting Friday prayer times from timing data
+ * @param {Array<{day: string, date: string, zuhr: string}>} timings - Array of prayer timing objects
+ * @returns {Array<{date: string, times: Array<string>}>} Array of Jummah schedule entries
+ */
 const generateJummahSchedule = (timings) => {
   if (!timings || !Array.isArray(timings)) {
     return [];
@@ -127,7 +150,11 @@ const generateJummahSchedule = (timings) => {
   return jummahSchedule;
 };
 
-// Helper to extract Jummah times from zuhr field
+/**
+ * Extracts multiple Jummah times from a zuhr time string
+ * @param {string} zuhrTime - The zuhr time string (may contain multiple times separated by spaces)
+ * @returns {Array<string>} Array of individual time strings, or empty array if single time
+ */
 const extractJummahTimesFromZuhr = (zuhrTime) => {
   if (!zuhrTime || !zuhrTime.includes("   ")) {
     return [];

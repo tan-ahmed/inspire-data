@@ -1,5 +1,13 @@
-// Base mosque URLs and slugs for scraping
-// This is used by the scraper to generate the consolidated mosque-index.json
+/**
+ * @fileoverview Mosque URL Configuration
+ * Contains the list of mosques with their names, slugs, and InspireFM URLs for scraping
+ */
+
+/**
+ * Array of mosque configurations for scraping prayer times from InspireFM
+ * Each mosque object contains the name, URL-friendly slug, and direct link to prayer times
+ * @type {Array<{name: string, slug: string, url: string}>}
+ */
 const mosqueUrls = [
   {
     name: "Al Hira Centre",
