@@ -1,4 +1,95 @@
 {
   "mosqueName": "Turkish Community Assoc",
-  "timings": []
+  "timings": [
+    {
+      "day": "Monday",
+      "date": "01-09-2025",
+      "fajr": "04:45",
+      "zuhr": "13:10",
+      "asr": "17:50",
+      "magrib": "19:53",
+      "isha": "22:30"
+    },
+    {
+      "day": "Tuesday",
+      "date": "02-09-2025",
+      "fajr": "04:45",
+      "zuhr": "13:10",
+      "asr": "17:50",
+      "magrib": "19:50",
+      "isha": "22:30"
+    },
+    {
+      "day": "Wednesday",
+      "date": "03-09-2025",
+      "fajr": "04:45",
+      "zuhr": "13:10",
+      "asr": "17:50",
+      "magrib": "19:48",
+      "isha": "22:30"
+    },
+    {
+      "day": "Thursday",
+      "date": "04-09-2025",
+      "fajr": "04:45",
+      "zuhr": "13:10",
+      "asr": "17:50",
+      "magrib": "19:46",
+      "isha": "22:30"
+    },
+    {
+      "day": "Friday",
+      "date": "05-09-2025",
+      "fajr": "04:45",
+      "zuhr": "13:10",
+      "asr": "17:50",
+      "magrib": "19:44",
+      "isha": "22:30"
+    },
+    {
+      "day": "Saturday",
+      "date": "06-09-2025",
+      "fajr": "04:45",
+      "zuhr": "13:10",
+      "asr": "17:50",
+      "magrib": "19:41",
+      "isha": "22:30"
+    },
+    {
+      "day": "Sunday",
+      "date": "07-09-2025",
+      "fajr": "04:45",
+      "zuhr": "13:10",
+      "asr": "17:50",
+      "magrib": "19:39",
+      "isha": "22:30"
+    },
+    {
+      "day": "Monday",
+      "date": "08-09-2025",
+      "fajr": "04:45",
+      "zuhr": "13:10",
+      "asr": "17:50",
+      "magrib": "19:37",
+      "isha": "22:30"
+    },
+    {
+      "day": "Tuesday",
+      "date": "09-09-2025",
+      "fajr": "04:45",
+      "zuhr": "13:10",
+      "asr": "17:50",
+      "magrib": "19:34",
+      "isha": "22:30"
+    },
+    {
+      "day": "Wednesday",
+      "date": "10-09-2025",
+      "fajr": "04:45",
+      "zuhr": "13:10",
+      "asr": "17:50",
+      "magrib": "19:32",
+      "isha": "22:30"
+    }
+  ]
 }
