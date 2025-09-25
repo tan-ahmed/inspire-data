@@ -2,15 +2,6 @@
   "mosqueName": "Zuhri Academy",
   "timings": [
     {
-      "day": "Wednesday",
-      "date": "24-09-2025",
-      "fajr": "06:15",
-      "zuhr": "",
-      "asr": "17:20",
-      "magrib": "18:59",
-      "isha": "20:30"
-    },
-    {
       "day": "Thursday",
       "date": "25-09-2025",
       "fajr": "06:15",
