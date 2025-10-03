@@ -32,8 +32,44 @@
       "name": "Faizan-e-Mushkil Kusha",
       "slug": "faizan-e-mushkil-kusha",
       "dataFile": "data/faizan-e-mushkil-kusha.json",
-      "hasData": false,
-      "jummahSchedule": []
+      "hasData": true,
+      "jummahSchedule": [
+        {
+          "date": "03-10-2025",
+          "times": [
+            "13:30",
+            "14:30"
+          ]
+        },
+        {
+          "date": "10-10-2025",
+          "times": [
+            "13:30",
+            "14:30"
+          ]
+        },
+        {
+          "date": "17-10-2025",
+          "times": [
+            "13:30",
+            "14:30"
+          ]
+        },
+        {
+          "date": "24-10-2025",
+          "times": [
+            "13:30",
+            "14:30"
+          ]
+        },
+        {
+          "date": "31-10-2025",
+          "times": [
+            "13:30",
+            "14:30"
+          ]
+        }
+      ]
     },
     {
       "name": "Farley Hill Masjid",
@@ -46,8 +82,44 @@
       "name": "Hockwell Ring Masjid",
       "slug": "hockwell-ring-masjid",
       "dataFile": "data/hockwell-ring-masjid.json",
-      "hasData": false,
-      "jummahSchedule": []
+      "hasData": true,
+      "jummahSchedule": [
+        {
+          "date": "03-10-2025",
+          "times": [
+            "13:30",
+            "14:15"
+          ]
+        },
+        {
+          "date": "10-10-2025",
+          "times": [
+            "13:30",
+            "14:15"
+          ]
+        },
+        {
+          "date": "17-10-2025",
+          "times": [
+            "13:30",
+            "14:15"
+          ]
+        },
+        {
+          "date": "24-10-2025",
+          "times": [
+            "13:30",
+            "14:15"
+          ]
+        },
+        {
+          "date": "31-10-2025",
+          "times": [
+            "13:30",
+            "14:15"
+          ]
+        }
+      ]
     },
     {
       "name": "Jalalabad Jamia Masjid",
@@ -300,22 +372,119 @@
       "name": "Madinah Masjid",
       "slug": "madinah-masjid",
       "dataFile": "data/madinah-masjid.json",
-      "hasData": false,
-      "jummahSchedule": []
+      "hasData": true,
+      "jummahSchedule": [
+        {
+          "date": "03-10-2025",
+          "times": [
+            "13:30",
+            "14:30"
+          ]
+        },
+        {
+          "date": "10-10-2025",
+          "times": [
+            "13:30",
+            "14:30"
+          ]
+        },
+        {
+          "date": "17-10-2025",
+          "times": [
+            "13:30",
+            "14:30"
+          ]
+        },
+        {
+          "date": "24-10-2025",
+          "times": [
+            "13:30",
+            "14:30"
+          ]
+        },
+        {
+          "date": "31-10-2025",
+          "times": [
+            "12:30"
+          ]
+        }
+      ]
     },
     {
       "name": "Masjid Al-Huda",
       "slug": "masjid-al-huda",
       "dataFile": "data/masjid-al-huda.json",
-      "hasData": false,
-      "jummahSchedule": []
+      "hasData": true,
+      "jummahSchedule": [
+        {
+          "date": "03-10-2025",
+          "times": [
+            "13:45"
+          ]
+        },
+        {
+          "date": "10-10-2025",
+          "times": [
+            "13:45"
+          ]
+        },
+        {
+          "date": "17-10-2025",
+          "times": [
+            "13:45"
+          ]
+        },
+        {
+          "date": "24-10-2025",
+          "times": [
+            "13:45"
+          ]
+        },
+        {
+          "date": "31-10-2025",
+          "times": [
+            "13:15"
+          ]
+        }
+      ]
     },
     {
       "name": "Masjid As-Sunnah",
       "slug": "masjid-as-sunnah",
       "dataFile": "data/masjid-as-sunnah.json",
-      "hasData": false,
-      "jummahSchedule": []
+      "hasData": true,
+      "jummahSchedule": [
+        {
+          "date": "03-10-2025",
+          "times": [
+            "13:30"
+          ]
+        },
+        {
+          "date": "10-10-2025",
+          "times": [
+            "13:30"
+          ]
+        },
+        {
+          "date": "17-10-2025",
+          "times": [
+            "13:30"
+          ]
+        },
+        {
+          "date": "24-10-2025",
+          "times": [
+            "13:30"
+          ]
+        },
+        {
+          "date": "31-10-2025",
+          "times": [
+            "13:30"
+          ]
+        }
+      ]
     },
     {
       "name": "Masjid Bilal",
@@ -335,8 +504,44 @@
       "name": "Masjid Suffa-Tul-Islam",
       "slug": "masjid-suffa-tul-islam",
       "dataFile": "data/masjid-suffa-tul-islam.json",
-      "hasData": false,
-      "jummahSchedule": []
+      "hasData": true,
+      "jummahSchedule": [
+        {
+          "date": "03-10-2025",
+          "times": [
+            "13:30",
+            "14:15"
+          ]
+        },
+        {
+          "date": "10-10-2025",
+          "times": [
+            "13:30",
+            "14:15"
+          ]
+        },
+        {
+          "date": "17-10-2025",
+          "times": [
+            "13:30",
+            "14:15"
+          ]
+        },
+        {
+          "date": "24-10-2025",
+          "times": [
+            "13:30",
+            "14:15"
+          ]
+        },
+        {
+          "date": "31-10-2025",
+          "times": [
+            "12:50",
+            "13:15"
+          ]
+        }
+      ]
     },
     {
       "name": "Masjid-e-Ali",
@@ -460,5 +665,5 @@
       "jummahSchedule": []
     }
   ],
-  "lastUpdated": "2025-10-02T00:31:03.426Z"
+  "lastUpdated": "2025-10-03T00:30:59.270Z"
 }
