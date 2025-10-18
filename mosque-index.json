@@ -7,13 +7,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "17-10-2025",
-          "times": [
-            "13:30",
-            "14:30"
-          ]
-        },
-        {
           "date": "24-10-2025",
           "times": [
             "13:30",
@@ -35,13 +28,6 @@
       "dataFile": "data/al-jalal-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "17-10-2025",
-          "times": [
-            "13:30",
-            "14:30"
-          ]
-        },
         {
           "date": "24-10-2025",
           "times": [
@@ -65,13 +51,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "17-10-2025",
-          "times": [
-            "13:30",
-            "14:30"
-          ]
-        },
-        {
           "date": "24-10-2025",
           "times": [
             "13:30",
@@ -93,13 +72,6 @@
       "dataFile": "data/bury-park-jamia-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "17-10-2025",
-          "times": [
-            "13:30",
-            "15:30"
-          ]
-        },
         {
           "date": "24-10-2025",
           "times": [
@@ -123,13 +95,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "17-10-2025",
-          "times": [
-            "13:30",
-            "14:30"
-          ]
-        },
-        {
           "date": "24-10-2025",
           "times": [
             "13:30",
@@ -152,12 +117,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "17-10-2025",
-          "times": [
-            "13:30"
-          ]
-        },
-        {
           "date": "24-10-2025",
           "times": [
             "13:30"
@@ -171,13 +130,6 @@
       "dataFile": "data/hockwell-ring-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "17-10-2025",
-          "times": [
-            "13:30",
-            "14:15"
-          ]
-        },
         {
           "date": "24-10-2025",
           "times": [
@@ -201,12 +153,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "17-10-2025",
-          "times": [
-            "13:30"
-          ]
-        },
-        {
           "date": "24-10-2025",
           "times": [
             "13:30"
@@ -226,12 +172,6 @@
       "dataFile": "data/jamia-al-akbaria.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "17-10-2025",
-          "times": [
-            "14:00"
-          ]
-        },
         {
           "date": "24-10-2025",
           "times": [
@@ -253,12 +193,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "17-10-2025",
-          "times": [
-            "14:00"
-          ]
-        },
-        {
           "date": "24-10-2025",
           "times": [
             "14:00"
@@ -279,12 +213,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "17-10-2025",
-          "times": [
-            "13:30"
-          ]
-        },
-        {
           "date": "24-10-2025",
           "times": [
             "13:30"
@@ -304,12 +232,6 @@
       "dataFile": "data/leagrave-hall-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "17-10-2025",
-          "times": [
-            "13:30"
-          ]
-        },
         {
           "date": "24-10-2025",
           "times": [
@@ -337,13 +259,6 @@
       "dataFile": "data/luton-central-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "17-10-2025",
-          "times": [
-            "13:30",
-            "14:30"
-          ]
-        },
         {
           "date": "24-10-2025",
           "times": [
@@ -374,13 +289,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "17-10-2025",
-          "times": [
-            "13:30",
-            "14:30"
-          ]
-        },
-        {
           "date": "24-10-2025",
           "times": [
             "13:30",
@@ -402,12 +310,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "17-10-2025",
-          "times": [
-            "13:45"
-          ]
-        },
-        {
           "date": "24-10-2025",
           "times": [
             "13:45"
@@ -428,12 +330,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "17-10-2025",
-          "times": [
-            "13:30"
-          ]
-        },
-        {
           "date": "24-10-2025",
           "times": [
             "13:30"
@@ -453,13 +349,6 @@
       "dataFile": "data/masjid-bilal.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "17-10-2025",
-          "times": [
-            "13:30",
-            "14:20"
-          ]
-        },
         {
           "date": "24-10-2025",
           "times": [
@@ -490,13 +379,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "17-10-2025",
-          "times": [
-            "13:30",
-            "14:15"
-          ]
-        },
-        {
           "date": "24-10-2025",
           "times": [
             "13:30",
@@ -519,12 +401,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "17-10-2025",
-          "times": [
-            "12:49"
-          ]
-        },
-        {
           "date": "24-10-2025",
           "times": [
             "12:48"
@@ -544,13 +420,6 @@
       "dataFile": "data/masjid-e-noor.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "17-10-2025",
-          "times": [
-            "13:30",
-            "14:30"
-          ]
-        },
         {
           "date": "24-10-2025",
           "times": [
@@ -573,13 +442,6 @@
       "dataFile": "data/saints-area-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "17-10-2025",
-          "times": [
-            "13:30",
-            "14:15"
-          ]
-        },
         {
           "date": "24-10-2025",
           "times": [
@@ -609,13 +471,6 @@
       "dataFile": "data/yusuf-hall.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "17-10-2025",
-          "times": [
-            "13:15",
-            "14:00"
-          ]
-        },
         {
           "date": "24-10-2025",
           "times": [
@@ -647,5 +502,5 @@
       "jummahSchedule": []
     }
   ],
-  "lastUpdated": "2025-10-17T00:32:49.591Z"
+  "lastUpdated": "2025-10-18T00:30:33.885Z"
 }
