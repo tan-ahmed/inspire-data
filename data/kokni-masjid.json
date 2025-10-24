@@ -73,5 +73,12 @@
       "magrib": "16:39",
       "isha": "18:30"
     }
-  ]
+  ],
+  "wordpress": {
+    "fajr_begins": "06:05:00",
+    "zuhr_begins": "12:51:00",
+    "asr_mithl_1": "15:17:00",
+    "maghrib_begins": "17:53:00",
+    "isha_begins": "19:30:00"
+  }
 }

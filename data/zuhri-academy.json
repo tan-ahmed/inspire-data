@@ -1,4 +1,11 @@
 {
   "mosqueName": "Zuhri Academy",
-  "timings": []
+  "timings": [],
+  "wordpress": {
+    "fajr_begins": "05:48:00",
+    "zuhr_begins": "12:54:00",
+    "asr_mithl_1": "15:58:00",
+    "maghrib_begins": "17:50:00",
+    "isha_begins": "19:04:00"
+  }
 }
