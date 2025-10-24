@@ -2,15 +2,6 @@
   "mosqueName": "Masjid-e-Noor",
   "timings": [
     {
-      "day": "Thursday",
-      "date": "23-10-2025",
-      "fajr": "06:50",
-      "zuhr": "13:30",
-      "asr": "16:30",
-      "magrib": "17:55",
-      "isha": "19:45"
-    },
-    {
       "day": "Friday",
       "date": "24-10-2025",
       "fajr": "06:50",
