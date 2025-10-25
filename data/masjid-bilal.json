@@ -2,15 +2,6 @@
   "mosqueName": "Masjid Bilal",
   "timings": [
     {
-      "day": "Friday",
-      "date": "24-10-2025",
-      "fajr": "07:00",
-      "zuhr": "13:30   14:20",
-      "asr": "16:30",
-      "magrib": "17:53",
-      "isha": "19:45"
-    },
-    {
       "day": "Saturday",
       "date": "25-10-2025",
       "fajr": "07:15",
@@ -75,10 +66,10 @@
     }
   ],
   "wordpress": {
-    "fajr_begins": "05:48:00",
+    "fajr_begins": "05:50:00",
     "zuhr_begins": "12:54:00",
-    "asr_mithl_1": "15:58:00",
-    "maghrib_begins": "17:55:00",
-    "isha_begins": "19:04:00"
+    "asr_mithl_1": "15:56:00",
+    "maghrib_begins": "17:53:00",
+    "isha_begins": "19:02:00"
   }
 }
