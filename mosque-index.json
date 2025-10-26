@@ -79,7 +79,7 @@
       "name": "Farley Hill Masjid",
       "slug": "farley-hill-masjid",
       "dataFile": "data/farley-hill-masjid.json",
-      "hasData": true,
+      "hasData": false,
       "jummahSchedule": []
     },
     {
@@ -356,5 +356,5 @@
       "jummahSchedule": []
     }
   ],
-  "lastUpdated": "2025-10-25T00:12:36.067Z"
+  "lastUpdated": "2025-10-26T00:14:04.129Z"
 }
