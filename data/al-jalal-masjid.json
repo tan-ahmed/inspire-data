@@ -2,15 +2,6 @@
   "mosqueName": "Al Jalal Masjid",
   "timings": [
     {
-      "day": "Monday",
-      "date": "27-10-2025",
-      "fajr": "06:00",
-      "zuhr": "13:00",
-      "asr": "15:15",
-      "magrib": "17:47",
-      "isha": "19:30"
-    },
-    {
       "day": "Tuesday",
       "date": "28-10-2025",
       "fajr": "06:00",
@@ -48,10 +39,10 @@
     }
   ],
   "wordpress": {
-    "fajr_begins": "05:10:00",
-    "zuhr_begins": "11:51:00",
-    "asr_mithl_1": "14:53:00",
-    "maghrib_begins": "16:45:00",
-    "isha_begins": "18:09:00"
+    "fajr_begins": "05:12:00",
+    "zuhr_begins": "11:50:00",
+    "asr_mithl_1": "14:51:00",
+    "maghrib_begins": "16:43:00",
+    "isha_begins": "18:07:00"
   }
 }
