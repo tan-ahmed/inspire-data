@@ -1,11 +1,4 @@
 {
   "mosqueName": "Zakariya Masjid",
-  "timings": [],
-  "wordpress": {
-    "fajr_begins": "04:55:00",
-    "zuhr_begins": "11:54:00",
-    "asr_mithl_1": "00:00:00",
-    "maghrib_begins": "16:45:00",
-    "isha_begins": "17:56:00"
-  }
+  "timings": []
 }
