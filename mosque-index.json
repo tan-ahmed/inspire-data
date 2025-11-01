@@ -7,10 +7,31 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "13:30",
-            "14:30"
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
           ]
         }
       ]
@@ -22,10 +43,31 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "13:30",
-            "14:30"
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
           ]
         }
       ]
@@ -37,10 +79,31 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "13:30",
-            "14:30"
+            "12:30",
+            "13:20"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "12:30",
+            "13:20"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "12:30",
+            "13:20"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "12:30",
+            "13:20"
           ]
         }
       ]
@@ -52,10 +115,27 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "13:30",
-            "15:30"
+            "13:00"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "13:00"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "13:00"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "13:00"
           ]
         }
       ]
@@ -67,10 +147,31 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "13:30",
-            "14:30"
+            "12:20",
+            "13:30"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
           ]
         }
       ]
@@ -79,23 +180,48 @@
       "name": "Farley Hill Masjid",
       "slug": "farley-hill-masjid",
       "dataFile": "data/farley-hill-masjid.json",
-      "hasData": false,
-      "jummahSchedule": []
+      "hasData": true,
+      "jummahSchedule": [
+        {
+          "date": "07-11-2025",
+          "times": [
+            "12:30",
+            "13:15",
+            "13:45"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "12:30",
+            "13:15",
+            "13:45"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "12:30",
+            "13:15",
+            "13:45"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "12:30",
+            "13:15",
+            "13:45"
+          ]
+        }
+      ]
     },
     {
       "name": "Hockwell Ring Masjid",
       "slug": "hockwell-ring-masjid",
       "dataFile": "data/hockwell-ring-masjid.json",
-      "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "31-10-2025",
-          "times": [
-            "13:30",
-            "14:15"
-          ]
-        }
-      ]
+      "hasData": false,
+      "jummahSchedule": []
     },
     {
       "name": "Jalalabad Jamia Masjid",
@@ -104,9 +230,27 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "13:30"
+            "13:15"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "13:15"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "13:15"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "13:15"
           ]
         }
       ]
@@ -118,9 +262,27 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "14:00"
+            "13:00"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "13:00"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "13:00"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "13:00"
           ]
         }
       ]
@@ -129,29 +291,15 @@
       "name": "Jamia Islamia Ghousia Trust",
       "slug": "jamia-islamia-ghousia-trust",
       "dataFile": "data/jamia-islamia-ghousia-trust.json",
-      "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "31-10-2025",
-          "times": [
-            "13:00"
-          ]
-        }
-      ]
+      "hasData": false,
+      "jummahSchedule": []
     },
     {
       "name": "Kokni Masjid",
       "slug": "kokni-masjid",
       "dataFile": "data/kokni-masjid.json",
-      "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "31-10-2025",
-          "times": [
-            "12:30"
-          ]
-        }
-      ]
+      "hasData": false,
+      "jummahSchedule": []
     },
     {
       "name": "Leagrave Hall Masjid",
@@ -160,9 +308,27 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "13:00"
+            "13:10"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "13:10"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "13:10"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "13:10"
           ]
         }
       ]
@@ -181,10 +347,31 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "13:30",
-            "14:30"
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
           ]
         }
       ]
@@ -203,9 +390,31 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "12:30"
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
           ]
         }
       ]
@@ -214,15 +423,8 @@
       "name": "Masjid Al-Huda",
       "slug": "masjid-al-huda",
       "dataFile": "data/masjid-al-huda.json",
-      "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "31-10-2025",
-          "times": [
-            "13:15"
-          ]
-        }
-      ]
+      "hasData": false,
+      "jummahSchedule": []
     },
     {
       "name": "Masjid As-Sunnah",
@@ -231,9 +433,27 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "13:30"
+            "13:10"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "13:10"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "13:10"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "13:10"
           ]
         }
       ]
@@ -245,10 +465,31 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "13:30",
-            "14:20"
+            "12:30",
+            "13:20"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "12:30",
+            "13:20"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "12:30",
+            "13:20"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "12:30",
+            "13:20"
           ]
         }
       ]
@@ -257,8 +498,37 @@
       "name": "Masjid Irshad",
       "slug": "masjid-irshad",
       "dataFile": "data/masjid-irshad.json",
-      "hasData": false,
-      "jummahSchedule": []
+      "hasData": true,
+      "jummahSchedule": [
+        {
+          "date": "07-11-2025",
+          "times": [
+            "12:30",
+            "13:15"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "12:20",
+            "13:15"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "12:30",
+            "13:15"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "12:30",
+            "13:15"
+          ]
+        }
+      ]
     },
     {
       "name": "Masjid Suffa-Tul-Islam",
@@ -267,9 +537,30 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "12:50",
+            "12:30",
+            "13:15"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "12:30",
+            "13:15"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "12:30",
+            "13:15"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "12:30",
             "13:15"
           ]
         }
@@ -279,30 +570,15 @@
       "name": "Masjid-e-Ali",
       "slug": "masjid-e-ali",
       "dataFile": "data/masjid-e-ali.json",
-      "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "31-10-2025",
-          "times": [
-            "11:47"
-          ]
-        }
-      ]
+      "hasData": false,
+      "jummahSchedule": []
     },
     {
       "name": "Masjid-e-Noor",
       "slug": "masjid-e-noor",
       "dataFile": "data/masjid-e-noor.json",
-      "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "31-10-2025",
-          "times": [
-            "13:30",
-            "14:30"
-          ]
-        }
-      ]
+      "hasData": false,
+      "jummahSchedule": []
     },
     {
       "name": "Saints Area Masjid",
@@ -311,10 +587,31 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "13:30",
-            "14:15"
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
           ]
         }
       ]
@@ -333,10 +630,31 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "31-10-2025",
+          "date": "07-11-2025",
           "times": [
-            "13:15",
-            "14:00"
+            "12:15",
+            "13:00"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "12:15",
+            "13:00"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "12:15",
+            "13:00"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "12:15",
+            "13:00"
           ]
         }
       ]
@@ -356,5 +674,5 @@
       "jummahSchedule": []
     }
   ],
-  "lastUpdated": "2025-10-31T00:13:30.514Z"
+  "lastUpdated": "2025-11-01T00:14:46.262Z"
 }
