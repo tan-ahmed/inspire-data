@@ -291,8 +291,33 @@
       "name": "Jamia Islamia Ghousia Trust",
       "slug": "jamia-islamia-ghousia-trust",
       "dataFile": "data/jamia-islamia-ghousia-trust.json",
-      "hasData": false,
-      "jummahSchedule": []
+      "hasData": true,
+      "jummahSchedule": [
+        {
+          "date": "07-11-2025",
+          "times": [
+            "13:00"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "13:00"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "13:00"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "13:00"
+          ]
+        }
+      ]
     },
     {
       "name": "Kokni Masjid",
@@ -380,8 +405,27 @@
       "name": "Luton Islamic Centre",
       "slug": "luton-islamic-centre",
       "dataFile": "data/luton-islamic-centre.json",
-      "hasData": false,
-      "jummahSchedule": []
+      "hasData": true,
+      "jummahSchedule": [
+        {
+          "date": "07-11-2025",
+          "times": [
+            "12:50"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "12:50"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "12:50"
+          ]
+        }
+      ]
     },
     {
       "name": "Madinah Masjid",
@@ -423,8 +467,33 @@
       "name": "Masjid Al-Huda",
       "slug": "masjid-al-huda",
       "dataFile": "data/masjid-al-huda.json",
-      "hasData": false,
-      "jummahSchedule": []
+      "hasData": true,
+      "jummahSchedule": [
+        {
+          "date": "07-11-2025",
+          "times": [
+            "13:15"
+          ]
+        },
+        {
+          "date": "14-11-2025",
+          "times": [
+            "13:15"
+          ]
+        },
+        {
+          "date": "21-11-2025",
+          "times": [
+            "13:15"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "13:15"
+          ]
+        }
+      ]
     },
     {
       "name": "Masjid As-Sunnah",
@@ -674,5 +743,5 @@
       "jummahSchedule": []
     }
   ],
-  "lastUpdated": "2025-11-01T00:14:46.262Z"
+  "lastUpdated": "2025-11-02T00:14:41.598Z"
 }
