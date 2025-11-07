@@ -1,19 +1,4 @@
 {
-  "mosques": [
-    {
-      "name": "Zakariya Masjid",
-      "slug": "zakariya-masjid",
-      "dataFile": "data/zakariya-masjid.json",
-      "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "07-11-2025",
-          "times": [
-            "13:15"
-          ]
-        }
-      ]
-    }
-  ],
-  "lastUpdated": "2025-11-07T15:30:47.962Z"
+  "mosques": [],
+  "lastUpdated": "2025-11-07T15:39:35.684Z"
 }
