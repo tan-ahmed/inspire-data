@@ -141,6 +141,20 @@
       ]
     },
     {
+      "name": "Dunstable Masjid",
+      "slug": "dunstable-masjid",
+      "dataFile": "data/dunstable-masjid.json",
+      "hasData": true,
+      "jummahSchedule": [
+        {
+          "date": "07-11-2025",
+          "times": [
+            "13:15"
+          ]
+        }
+      ]
+    },
+    {
       "name": "Faizan-e-Mushkil Kusha",
       "slug": "faizan-e-mushkil-kusha",
       "dataFile": "data/faizan-e-mushkil-kusha.json",
@@ -764,5 +778,5 @@
       ]
     }
   ],
-  "lastUpdated": "2025-11-07T15:43:29.765Z"
+  "lastUpdated": "2025-11-07T16:22:28.120Z"
 }
