@@ -646,8 +646,15 @@
       "name": "Masjid-e-Noor",
       "slug": "masjid-e-noor",
       "dataFile": "data/masjid-e-noor.json",
-      "hasData": false,
-      "jummahSchedule": []
+      "hasData": true,
+      "jummahSchedule": [
+        {
+          "date": "07-11-2025",
+          "times": [
+            "13:00"
+          ]
+        }
+      ]
     },
     {
       "name": "Saints Area Masjid",
@@ -739,9 +746,16 @@
       "name": "Zuhri Academy",
       "slug": "zuhri-academy",
       "dataFile": "data/zuhri-academy.json",
-      "hasData": false,
-      "jummahSchedule": []
+      "hasData": true,
+      "jummahSchedule": [
+        {
+          "date": "07-11-2025",
+          "times": [
+            "13:15"
+          ]
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-11-07T00:14:00.753Z"
+  "lastUpdated": "2025-11-07T15:10:13.036Z"
 }
