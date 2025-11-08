@@ -7,13 +7,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "07-11-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
-        {
           "date": "14-11-2025",
           "times": [
             "12:30",
@@ -42,13 +35,6 @@
       "dataFile": "data/al-jalal-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "07-11-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
         {
           "date": "14-11-2025",
           "times": [
@@ -79,13 +65,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "07-11-2025",
-          "times": [
-            "12:30",
-            "13:20"
-          ]
-        },
-        {
           "date": "14-11-2025",
           "times": [
             "12:30",
@@ -115,12 +94,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "07-11-2025",
-          "times": [
-            "13:00"
-          ]
-        },
-        {
           "date": "14-11-2025",
           "times": [
             "13:00"
@@ -145,14 +118,7 @@
       "slug": "dunstable-masjid",
       "dataFile": "data/dunstable-masjid.json",
       "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "07-11-2025",
-          "times": [
-            "13:15"
-          ]
-        }
-      ]
+      "jummahSchedule": []
     },
     {
       "name": "Faizan-e-Mushkil Kusha",
@@ -160,13 +126,6 @@
       "dataFile": "data/faizan-e-mushkil-kusha.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "07-11-2025",
-          "times": [
-            "12:20",
-            "13:30"
-          ]
-        },
         {
           "date": "14-11-2025",
           "times": [
@@ -196,14 +155,6 @@
       "dataFile": "data/farley-hill-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "07-11-2025",
-          "times": [
-            "12:30",
-            "13:15",
-            "13:45"
-          ]
-        },
         {
           "date": "14-11-2025",
           "times": [
@@ -244,12 +195,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "07-11-2025",
-          "times": [
-            "13:15"
-          ]
-        },
-        {
           "date": "14-11-2025",
           "times": [
             "13:15"
@@ -276,12 +221,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "07-11-2025",
-          "times": [
-            "13:00"
-          ]
-        },
-        {
           "date": "14-11-2025",
           "times": [
             "13:00"
@@ -307,12 +246,6 @@
       "dataFile": "data/jamia-islamia-ghousia-trust.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "07-11-2025",
-          "times": [
-            "13:00"
-          ]
-        },
         {
           "date": "14-11-2025",
           "times": [
@@ -347,12 +280,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "07-11-2025",
-          "times": [
-            "13:10"
-          ]
-        },
-        {
           "date": "14-11-2025",
           "times": [
             "13:10"
@@ -386,13 +313,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "07-11-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
-        {
           "date": "14-11-2025",
           "times": [
             "12:30",
@@ -422,12 +342,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "07-11-2025",
-          "times": [
-            "12:50"
-          ]
-        },
-        {
           "date": "14-11-2025",
           "times": [
             "12:50"
@@ -447,13 +361,6 @@
       "dataFile": "data/madinah-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "07-11-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
         {
           "date": "14-11-2025",
           "times": [
@@ -484,12 +391,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "07-11-2025",
-          "times": [
-            "13:15"
-          ]
-        },
-        {
           "date": "14-11-2025",
           "times": [
             "13:15"
@@ -516,12 +417,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "07-11-2025",
-          "times": [
-            "13:10"
-          ]
-        },
-        {
           "date": "14-11-2025",
           "times": [
             "13:10"
@@ -547,13 +442,6 @@
       "dataFile": "data/masjid-bilal.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "07-11-2025",
-          "times": [
-            "12:30",
-            "13:20"
-          ]
-        },
         {
           "date": "14-11-2025",
           "times": [
@@ -584,13 +472,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "07-11-2025",
-          "times": [
-            "12:30",
-            "13:15"
-          ]
-        },
-        {
           "date": "14-11-2025",
           "times": [
             "12:20",
@@ -619,13 +500,6 @@
       "dataFile": "data/masjid-suffa-tul-islam.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "07-11-2025",
-          "times": [
-            "12:30",
-            "13:15"
-          ]
-        },
         {
           "date": "14-11-2025",
           "times": [
@@ -660,15 +534,8 @@
       "name": "Masjid-e-Noor",
       "slug": "masjid-e-noor",
       "dataFile": "data/masjid-e-noor.json",
-      "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "07-11-2025",
-          "times": [
-            "13:00"
-          ]
-        }
-      ]
+      "hasData": false,
+      "jummahSchedule": []
     },
     {
       "name": "Saints Area Masjid",
@@ -676,13 +543,6 @@
       "dataFile": "data/saints-area-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "07-11-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
         {
           "date": "14-11-2025",
           "times": [
@@ -720,13 +580,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "07-11-2025",
-          "times": [
-            "12:15",
-            "13:00"
-          ]
-        },
-        {
           "date": "14-11-2025",
           "times": [
             "12:15",
@@ -754,29 +607,15 @@
       "slug": "zakariya-masjid",
       "dataFile": "data/zakariya-masjid.json",
       "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "07-11-2025",
-          "times": [
-            "13:15"
-          ]
-        }
-      ]
+      "jummahSchedule": []
     },
     {
       "name": "Zuhri Academy",
       "slug": "zuhri-academy",
       "dataFile": "data/zuhri-academy.json",
       "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "07-11-2025",
-          "times": [
-            "13:15"
-          ]
-        }
-      ]
+      "jummahSchedule": []
     }
   ],
-  "lastUpdated": "2025-11-07T16:22:28.120Z"
+  "lastUpdated": "2025-11-08T00:12:39.668Z"
 }
