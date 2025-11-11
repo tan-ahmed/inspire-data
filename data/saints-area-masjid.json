@@ -2,15 +2,6 @@
   "mosqueName": "Saints Area Masjid",
   "timings": [
     {
-      "day": "Monday",
-      "date": "10-11-2025",
-      "fajr": "06:30",
-      "zuhr": "13:00",
-      "asr": "14:45",
-      "magrib": "16:22",
-      "isha": "18:45"
-    },
-    {
       "day": "Tuesday",
       "date": "11-11-2025",
       "fajr": "06:30",
