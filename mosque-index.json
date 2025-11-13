@@ -118,7 +118,14 @@
       "slug": "dunstable-masjid",
       "dataFile": "data/dunstable-masjid.json",
       "hasData": true,
-      "jummahSchedule": []
+      "jummahSchedule": [
+        {
+          "date": "14-11-2025",
+          "times": [
+            "13:15"
+          ]
+        }
+      ]
     },
     {
       "name": "Faizan-e-Mushkil Kusha",
@@ -271,7 +278,14 @@
       "slug": "kokni-masjid",
       "dataFile": "data/kokni-masjid.json",
       "hasData": true,
-      "jummahSchedule": []
+      "jummahSchedule": [
+        {
+          "date": "14-11-2025",
+          "times": [
+            "12:30"
+          ]
+        }
+      ]
     },
     {
       "name": "Leagrave Hall Masjid",
@@ -535,7 +549,14 @@
       "slug": "masjid-e-noor",
       "dataFile": "data/masjid-e-noor.json",
       "hasData": true,
-      "jummahSchedule": []
+      "jummahSchedule": [
+        {
+          "date": "14-11-2025",
+          "times": [
+            "13:00"
+          ]
+        }
+      ]
     },
     {
       "name": "Saints Area Masjid",
@@ -607,15 +628,29 @@
       "slug": "zakariya-masjid",
       "dataFile": "data/zakariya-masjid.json",
       "hasData": true,
-      "jummahSchedule": []
+      "jummahSchedule": [
+        {
+          "date": "14-11-2025",
+          "times": [
+            "13:15"
+          ]
+        }
+      ]
     },
     {
       "name": "Zuhri Academy",
       "slug": "zuhri-academy",
       "dataFile": "data/zuhri-academy.json",
       "hasData": true,
-      "jummahSchedule": []
+      "jummahSchedule": [
+        {
+          "date": "14-11-2025",
+          "times": [
+            "13:15"
+          ]
+        }
+      ]
     }
   ],
-  "lastUpdated": "2025-11-12T00:13:59.582Z"
+  "lastUpdated": "2025-11-13T00:13:48.861Z"
 }
