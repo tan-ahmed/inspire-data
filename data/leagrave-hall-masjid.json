@@ -2,15 +2,6 @@
   "mosqueName": "Leagrave Hall Masjid",
   "timings": [
     {
-      "day": "Friday",
-      "date": "14-11-2025",
-      "fajr": "06:00",
-      "zuhr": "13:10",
-      "asr": "15:30",
-      "magrib": "16:16",
-      "isha": "19:30"
-    },
-    {
       "day": "Saturday",
       "date": "15-11-2025",
       "fajr": "06:00",
