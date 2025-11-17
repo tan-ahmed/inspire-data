@@ -416,7 +416,22 @@
       "slug": "masjid-e-noor",
       "dataFile": "data/masjid-e-noor.json",
       "hasData": true,
-      "jummahSchedule": []
+      "jummahSchedule": [
+        {
+          "date": "21-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
+          ]
+        },
+        {
+          "date": "28-11-2025",
+          "times": [
+            "12:30",
+            "13:30"
+          ]
+        }
+      ]
     },
     {
       "name": "Saints Area Masjid",
@@ -484,5 +499,5 @@
       "jummahSchedule": []
     }
   ],
-  "lastUpdated": "2025-11-16T00:14:47.752Z"
+  "lastUpdated": "2025-11-17T00:13:59.017Z"
 }
