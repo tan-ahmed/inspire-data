@@ -7,13 +7,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "21-11-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
-        {
           "date": "28-11-2025",
           "times": [
             "12:30",
@@ -28,13 +21,6 @@
       "dataFile": "data/al-jalal-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "21-11-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
         {
           "date": "28-11-2025",
           "times": [
@@ -51,13 +37,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "21-11-2025",
-          "times": [
-            "12:30",
-            "13:20"
-          ]
-        },
-        {
           "date": "28-11-2025",
           "times": [
             "12:30",
@@ -73,12 +52,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "21-11-2025",
-          "times": [
-            "13:00"
-          ]
-        },
-        {
           "date": "28-11-2025",
           "times": [
             "13:00"
@@ -91,14 +64,7 @@
       "slug": "dunstable-masjid",
       "dataFile": "data/dunstable-masjid.json",
       "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "21-11-2025",
-          "times": [
-            "13:15"
-          ]
-        }
-      ]
+      "jummahSchedule": []
     },
     {
       "name": "Faizan-e-Mushkil Kusha",
@@ -106,13 +72,6 @@
       "dataFile": "data/faizan-e-mushkil-kusha.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "21-11-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
         {
           "date": "28-11-2025",
           "times": [
@@ -128,14 +87,6 @@
       "dataFile": "data/farley-hill-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "21-11-2025",
-          "times": [
-            "12:30",
-            "13:15",
-            "13:45"
-          ]
-        },
         {
           "date": "28-11-2025",
           "times": [
@@ -160,12 +111,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "21-11-2025",
-          "times": [
-            "13:15"
-          ]
-        },
-        {
           "date": "28-11-2025",
           "times": [
             "13:15"
@@ -179,12 +124,6 @@
       "dataFile": "data/jamia-al-akbaria.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "21-11-2025",
-          "times": [
-            "13:00"
-          ]
-        },
         {
           "date": "28-11-2025",
           "times": [
@@ -200,12 +139,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "21-11-2025",
-          "times": [
-            "13:00"
-          ]
-        },
-        {
           "date": "28-11-2025",
           "times": [
             "13:00"
@@ -218,14 +151,7 @@
       "slug": "kokni-masjid",
       "dataFile": "data/kokni-masjid.json",
       "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "21-11-2025",
-          "times": [
-            "12:30"
-          ]
-        }
-      ]
+      "jummahSchedule": []
     },
     {
       "name": "Leagrave Hall Masjid",
@@ -233,12 +159,6 @@
       "dataFile": "data/leagrave-hall-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "21-11-2025",
-          "times": [
-            "13:10"
-          ]
-        },
         {
           "date": "28-11-2025",
           "times": [
@@ -261,13 +181,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "21-11-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
-        {
           "date": "28-11-2025",
           "times": [
             "12:30",
@@ -280,15 +193,8 @@
       "name": "Luton Islamic Centre",
       "slug": "luton-islamic-centre",
       "dataFile": "data/luton-islamic-centre.json",
-      "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "21-11-2025",
-          "times": [
-            "12:50"
-          ]
-        }
-      ]
+      "hasData": false,
+      "jummahSchedule": []
     },
     {
       "name": "Madinah Masjid",
@@ -296,13 +202,6 @@
       "dataFile": "data/madinah-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "21-11-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
         {
           "date": "28-11-2025",
           "times": [
@@ -319,12 +218,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "21-11-2025",
-          "times": [
-            "13:15"
-          ]
-        },
-        {
           "date": "28-11-2025",
           "times": [
             "13:15"
@@ -339,12 +232,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "21-11-2025",
-          "times": [
-            "13:10"
-          ]
-        },
-        {
           "date": "28-11-2025",
           "times": [
             "13:10"
@@ -358,13 +245,6 @@
       "dataFile": "data/masjid-bilal.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "21-11-2025",
-          "times": [
-            "12:30",
-            "13:20"
-          ]
-        },
         {
           "date": "28-11-2025",
           "times": [
@@ -381,13 +261,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "21-11-2025",
-          "times": [
-            "12:30",
-            "13:15"
-          ]
-        },
-        {
           "date": "28-11-2025",
           "times": [
             "12:30",
@@ -402,13 +275,6 @@
       "dataFile": "data/masjid-suffa-tul-islam.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "21-11-2025",
-          "times": [
-            "12:30",
-            "13:15"
-          ]
-        },
         {
           "date": "28-11-2025",
           "times": [
@@ -432,13 +298,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "21-11-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
-        {
           "date": "28-11-2025",
           "times": [
             "12:30",
@@ -453,13 +312,6 @@
       "dataFile": "data/saints-area-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "21-11-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
         {
           "date": "28-11-2025",
           "times": [
@@ -483,13 +335,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "21-11-2025",
-          "times": [
-            "12:15",
-            "13:00"
-          ]
-        },
-        {
           "date": "28-11-2025",
           "times": [
             "12:15",
@@ -503,29 +348,15 @@
       "slug": "zakariya-masjid",
       "dataFile": "data/zakariya-masjid.json",
       "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "21-11-2025",
-          "times": [
-            "12:20"
-          ]
-        }
-      ]
+      "jummahSchedule": []
     },
     {
       "name": "Zuhri Academy",
       "slug": "zuhri-academy",
       "dataFile": "data/zuhri-academy.json",
       "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "21-11-2025",
-          "times": [
-            "13:00"
-          ]
-        }
-      ]
+      "jummahSchedule": []
     }
   ],
-  "lastUpdated": "2025-11-21T00:13:28.257Z"
+  "lastUpdated": "2025-11-22T00:13:09.912Z"
 }
