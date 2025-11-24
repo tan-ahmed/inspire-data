@@ -150,7 +150,7 @@
       "name": "Kokni Masjid",
       "slug": "kokni-masjid",
       "dataFile": "data/kokni-masjid.json",
-      "hasData": false,
+      "hasData": true,
       "jummahSchedule": []
     },
     {
@@ -358,5 +358,5 @@
       "jummahSchedule": []
     }
   ],
-  "lastUpdated": "2025-11-23T00:15:55.861Z"
+  "lastUpdated": "2025-11-24T00:14:49.371Z"
 }
