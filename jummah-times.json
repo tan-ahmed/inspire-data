@@ -6,7 +6,8 @@
       "13:30"
     ],
     "postcode": "LU4 8RR",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "al-hira-centre"
   },
   {
     "name": "Al-Jalal Masjid",
@@ -15,7 +16,8 @@
       "13:30"
     ],
     "postcode": "LU3 1AZ",
-    "womenFacilities": "Second Jamaat"
+    "womenFacilities": "Second Jamaat",
+    "slug": "al-jalal-masjid"
   },
   {
     "name": "Baitul Abraar Jami Masjid",
@@ -24,7 +26,8 @@
       "13:20"
     ],
     "postcode": "LU3 1RF",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "bait-ul-abrar-jamia-masjid"
   },
   {
     "name": "Bury Park Jamia Masjid",
@@ -32,7 +35,8 @@
       "13:00"
     ],
     "postcode": "LU1 1HB",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "bury-park-jamia-masjid"
   },
   {
     "name": "Bushmead Community Hub",
@@ -41,7 +45,8 @@
       "13:15"
     ],
     "postcode": "LU2 7SF",
-    "womenFacilities": "Yes"
+    "womenFacilities": "Yes",
+    "slug": "bushmead-community-hub"
   },
   {
     "name": "Dunstable Masjid",
@@ -49,7 +54,8 @@
       "13:15"
     ],
     "postcode": "LU5 4LR",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "dunstable-masjid"
   },
   {
     "name": "Faizan-e-Mushkil Kusha",
@@ -58,7 +64,8 @@
       "13:30"
     ],
     "postcode": "LU4 9JZ",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "faizan-e-mushkil-kusha"
   },
   {
     "name": "Farley Community Centre",
@@ -66,7 +73,8 @@
       "13:00"
     ],
     "postcode": "LU1 5RE",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "farley-community-centre"
   },
   {
     "name": "Farley Hill Masjid",
@@ -76,7 +84,8 @@
       "13:45"
     ],
     "postcode": "LU1 5LY",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "farley-hill-masjid"
   },
   {
     "name": "Hockwell Ring Masjid",
@@ -85,7 +94,8 @@
       "13:10"
     ],
     "postcode": "LU4 9HT",
-    "womenFacilities": "Yes"
+    "womenFacilities": "Yes",
+    "slug": "hockwell-ring-masjid"
   },
   {
     "name": "Jalalabad Jame Masjid",
@@ -93,7 +103,8 @@
       "13:00"
     ],
     "postcode": "LU4 8HZ",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "jalalabad-jamia-masjid"
   },
   {
     "name": "Jamia Al-Akbaria",
@@ -101,7 +112,8 @@
       "13:00"
     ],
     "postcode": "LU4 8NP",
-    "womenFacilities": "Yes"
+    "womenFacilities": "Yes",
+    "slug": "jamia-al-akbaria"
   },
   {
     "name": "Jamia Islamia Ghousia Trust",
@@ -109,7 +121,8 @@
       "13:00"
     ],
     "postcode": "LU4 8JD",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "jamia-islamia-ghousia-trust"
   },
   {
     "name": "Keech Hospice",
@@ -117,7 +130,8 @@
       "13:00"
     ],
     "postcode": "LU3 3NT",
-    "womenFacilities": "Yes"
+    "womenFacilities": "Yes",
+    "slug": "keech-hospice"
   },
   {
     "name": "Kokni Masjid",
@@ -125,7 +139,8 @@
       "12:30"
     ],
     "postcode": "LU1 1HE",
-    "womenFacilities": "Yes"
+    "womenFacilities": "Yes",
+    "slug": "kokni-masjid"
   },
   {
     "name": "Leagrave Hall Masjid",
@@ -133,7 +148,8 @@
       "13:10"
     ],
     "postcode": "LU4 9LE",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "leagrave-hall-masjid"
   },
   {
     "name": "Lewsey Community Centre",
@@ -141,7 +157,8 @@
       "12:30"
     ],
     "postcode": "LU4 0SW",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "lewsey-community-centre"
   },
   {
     "name": "Lucas Gardens",
@@ -149,7 +166,8 @@
       "13:15"
     ],
     "postcode": "LU3 4BG",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "lucas-gardens"
   },
   {
     "name": "Luton Central Masjid",
@@ -158,7 +176,8 @@
       "13:30"
     ],
     "postcode": "LU4 8JD",
-    "womenFacilities": "Yes"
+    "womenFacilities": "Yes",
+    "slug": "luton-central-masjid"
   },
   {
     "name": "Luton Islamic Centre",
@@ -166,7 +185,8 @@
       "12:50"
     ],
     "postcode": "LU1 1HE",
-    "womenFacilities": "Yes"
+    "womenFacilities": "Yes",
+    "slug": "luton-islamic-centre"
   },
   {
     "name": "Madinah Masjid",
@@ -175,13 +195,15 @@
       "13:15"
     ],
     "postcode": "LU4 8AQ",
-    "womenFacilities": "Second Jamaat"
+    "womenFacilities": "Second Jamaat",
+    "slug": "madinah-masjid"
   },
   {
     "name": "Marsh Farm Futures",
     "times": [],
     "postcode": "LU3 3QB",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "marsh-farm-futures"
   },
   {
     "name": "Masjid Al-Huda",
@@ -189,7 +211,8 @@
       "13:15"
     ],
     "postcode": "LU3 1JD",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "masjid-al-huda"
   },
   {
     "name": "Masjid As-Sunnah",
@@ -197,7 +220,8 @@
       "13:10"
     ],
     "postcode": "LU4 8EQ",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "masjid-as-sunnah"
   },
   {
     "name": "Masjid Bilal",
@@ -206,7 +230,8 @@
       "13:20"
     ],
     "postcode": "LU3 2RA",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "masjid-bilal"
   },
   {
     "name": "Masjid Ibrahim",
@@ -215,7 +240,8 @@
       "13:10"
     ],
     "postcode": "LU2 0NP",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "masjid-ibrahim"
   },
   {
     "name": "Masjid Irshad",
@@ -224,7 +250,8 @@
       "13:15"
     ],
     "postcode": "LU1 1TB",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "masjid-irshad"
   },
   {
     "name": "Masjid Suffa-Tul-Islam",
@@ -233,7 +260,8 @@
       "13:15"
     ],
     "postcode": "LU4 8SW",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "masjid-suffa-tul-islam"
   },
   {
     "name": "Masjid-e-Ali",
@@ -241,7 +269,8 @@
       "12:30"
     ],
     "postcode": "LU4 8RP",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "masjid-e-ali"
   },
   {
     "name": "Masjid-e-Noor",
@@ -250,7 +279,8 @@
       "13:30"
     ],
     "postcode": "LU3 1DN",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "masjid-e-noor"
   },
   {
     "name": "Raynham Way Community Centre",
@@ -259,7 +289,8 @@
       "13:30"
     ],
     "postcode": "LU2 9JE",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "raynham-way-community-centre"
   },
   {
     "name": "Saints Area Masjid",
@@ -268,7 +299,8 @@
       "13:30"
     ],
     "postcode": "LU3 1QH",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "saints-area-masjid"
   },
   {
     "name": "The Dallow Centre",
@@ -276,7 +308,8 @@
       "13:00"
     ],
     "postcode": "LU1 1TB",
-    "womenFacilities": "Yes"
+    "womenFacilities": "Yes",
+    "slug": "the-dallow-centre"
   },
   {
     "name": "Turkish Community Assoc.",
@@ -284,7 +317,8 @@
       "12:30"
     ],
     "postcode": "LU1 5BS",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "turkish-community-assoc"
   },
   {
     "name": "Venue Central Chapel Street",
@@ -293,7 +327,8 @@
       "13:15"
     ],
     "postcode": "LU1 2SE",
-    "womenFacilities": "Yes"
+    "womenFacilities": "Yes",
+    "slug": "venue-central-chapel-street"
   },
   {
     "name": "Yusuf Hall",
@@ -302,7 +337,8 @@
       "13:00"
     ],
     "postcode": "LU3 3EE",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "yusuf-hall"
   },
   {
     "name": "Zakariya Masjid",
@@ -311,7 +347,8 @@
       "13:15"
     ],
     "postcode": "LU4 0QY",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "zakariya-masjid"
   },
   {
     "name": "Zuhri Academy",
@@ -319,6 +356,7 @@
       "13:00"
     ],
     "postcode": "LU3 1RJ",
-    "womenFacilities": ""
+    "womenFacilities": "",
+    "slug": "zuhri-academy"
   }
 ]
