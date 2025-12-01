@@ -5,7 +5,14 @@
       "slug": "al-furqan",
       "dataFile": "data/al-furqan.json",
       "hasData": true,
-      "jummahSchedule": []
+      "jummahSchedule": [
+        {
+          "date": "01-12-2025",
+          "times": [
+            "12:45"
+          ]
+        }
+      ]
     },
     {
       "name": "Al Hira Centre",
@@ -595,5 +602,5 @@
       "jummahSchedule": []
     }
   ],
-  "lastUpdated": "2025-12-01T15:01:48.390Z"
+  "lastUpdated": "2025-12-01T15:11:48.966Z"
 }
