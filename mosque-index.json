@@ -7,7 +7,7 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "02-12-2025",
+          "date": "03-12-2025",
           "times": [
             "12:45"
           ]
@@ -18,7 +18,7 @@
       "name": "Al Hira Centre",
       "slug": "al-hira-centre",
       "dataFile": "data/al-hira-centre.json",
-      "hasData": false,
+      "hasData": true,
       "jummahSchedule": []
     },
     {
@@ -602,5 +602,5 @@
       "jummahSchedule": []
     }
   ],
-  "lastUpdated": "2025-12-02T00:14:00.448Z"
+  "lastUpdated": "2025-12-03T00:13:53.330Z"
 }
