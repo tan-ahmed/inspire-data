@@ -7,7 +7,7 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "05-12-2025",
+          "date": "06-12-2025",
           "times": [
             "12:45"
           ]
@@ -19,28 +19,14 @@
       "slug": "al-hira-centre",
       "dataFile": "data/al-hira-centre.json",
       "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "12:30"
-          ]
-        }
-      ]
+      "jummahSchedule": []
     },
     {
       "name": "Al Jalal Masjid",
       "slug": "al-jalal-masjid",
       "dataFile": "data/al-jalal-masjid.json",
       "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "13:00"
-          ]
-        }
-      ]
+      "jummahSchedule": []
     },
     {
       "name": "Bait Ul Abrar Jamia Masjid",
@@ -48,13 +34,6 @@
       "dataFile": "data/bait-ul-abrar-jamia-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "12:30",
-            "13:20"
-          ]
-        },
         {
           "date": "12-12-2025",
           "times": [
@@ -83,28 +62,14 @@
       "slug": "bury-park-jamia-masjid",
       "dataFile": "data/bury-park-jamia-masjid.json",
       "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "13:00"
-          ]
-        }
-      ]
+      "jummahSchedule": []
     },
     {
       "name": "Dunstable Masjid",
       "slug": "dunstable-masjid",
       "dataFile": "data/dunstable-masjid.json",
       "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "13:15"
-          ]
-        }
-      ]
+      "jummahSchedule": []
     },
     {
       "name": "Faizan-e-Mushkil Kusha",
@@ -112,13 +77,6 @@
       "dataFile": "data/faizan-e-mushkil-kusha.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
         {
           "date": "12-12-2025",
           "times": [
@@ -156,13 +114,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "05-12-2025",
-          "times": [
-            "12:30",
-            "13:10"
-          ]
-        },
-        {
           "date": "12-12-2025",
           "times": [
             "12:30",
@@ -189,15 +140,8 @@
       "name": "Jalalabad Jamia Masjid",
       "slug": "jalalabad-jamia-masjid",
       "dataFile": "data/jalalabad-jamia-masjid.json",
-      "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "13:00"
-          ]
-        }
-      ]
+      "hasData": false,
+      "jummahSchedule": []
     },
     {
       "name": "Jamia Al-Akbaria",
@@ -205,12 +149,6 @@
       "dataFile": "data/jamia-al-akbaria.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "13:00"
-          ]
-        },
         {
           "date": "12-12-2025",
           "times": [
@@ -245,12 +183,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "05-12-2025",
-          "times": [
-            "12:30"
-          ]
-        },
-        {
           "date": "12-12-2025",
           "times": [
             "12:30"
@@ -275,14 +207,7 @@
       "slug": "leagrave-hall-masjid",
       "dataFile": "data/leagrave-hall-masjid.json",
       "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "13:10"
-          ]
-        }
-      ]
+      "jummahSchedule": []
     },
     {
       "name": "Lewsey Community Centre",
@@ -297,13 +222,6 @@
       "dataFile": "data/luton-central-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
         {
           "date": "12-12-2025",
           "times": [
@@ -334,12 +252,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "05-12-2025",
-          "times": [
-            "12:50"
-          ]
-        },
-        {
           "date": "12-12-2025",
           "times": [
             "12:50"
@@ -366,13 +278,6 @@
       "dataFile": "data/masjid-al-huda.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "12:45",
-            "13:15"
-          ]
-        },
         {
           "date": "12-12-2025",
           "times": [
@@ -403,12 +308,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "05-12-2025",
-          "times": [
-            "13:10"
-          ]
-        },
-        {
           "date": "12-12-2025",
           "times": [
             "13:10"
@@ -433,14 +332,7 @@
       "slug": "masjid-bilal",
       "dataFile": "data/masjid-bilal.json",
       "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "13:15"
-          ]
-        }
-      ]
+      "jummahSchedule": []
     },
     {
       "name": "Masjid Irshad",
@@ -448,13 +340,6 @@
       "dataFile": "data/masjid-irshad.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "12:30",
-            "13:15"
-          ]
-        },
         {
           "date": "12-12-2025",
           "times": [
@@ -484,13 +369,6 @@
       "dataFile": "data/masjid-suffa-tul-islam.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "12:30",
-            "13:15"
-          ]
-        },
         {
           "date": "12-12-2025",
           "times": [
@@ -528,13 +406,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "05-12-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
-        {
           "date": "12-12-2025",
           "times": [
             "12:30",
@@ -563,13 +434,6 @@
       "dataFile": "data/saints-area-masjid.json",
       "hasData": true,
       "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "12:30",
-            "13:30"
-          ]
-        },
         {
           "date": "12-12-2025",
           "times": [
@@ -607,13 +471,6 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "05-12-2025",
-          "times": [
-            "12:15",
-            "13:00"
-          ]
-        },
-        {
           "date": "12-12-2025",
           "times": [
             "12:15",
@@ -641,22 +498,15 @@
       "slug": "zakariya-masjid",
       "dataFile": "data/zakariya-masjid.json",
       "hasData": true,
-      "jummahSchedule": [
-        {
-          "date": "05-12-2025",
-          "times": [
-            "12:20"
-          ]
-        }
-      ]
+      "jummahSchedule": []
     },
     {
       "name": "Zuhri Academy",
       "slug": "zuhri-academy",
       "dataFile": "data/zuhri-academy.json",
-      "hasData": false,
+      "hasData": true,
       "jummahSchedule": []
     }
   ],
-  "lastUpdated": "2025-12-05T00:14:10.743Z"
+  "lastUpdated": "2025-12-06T00:13:28.026Z"
 }
