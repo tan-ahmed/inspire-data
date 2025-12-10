@@ -7,7 +7,7 @@
       "hasData": true,
       "jummahSchedule": [
         {
-          "date": "09-12-2025",
+          "date": "10-12-2025",
           "times": [
             "12:45"
           ]
@@ -508,5 +508,5 @@
       "jummahSchedule": []
     }
   ],
-  "lastUpdated": "2025-12-09T00:13:50.401Z"
+  "lastUpdated": "2025-12-10T00:14:14.900Z"
 }
