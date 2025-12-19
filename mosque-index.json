@@ -178,8 +178,8 @@
       "name": "Zuhri Academy",
       "slug": "zuhri-academy",
       "dataFile": "data/zuhri-academy.json",
-      "hasData": true
+      "hasData": false
     }
   ],
-  "lastUpdated": "2025-12-18T00:12:18.099Z"
+  "lastUpdated": "2025-12-19T00:14:51.616Z"
 }
