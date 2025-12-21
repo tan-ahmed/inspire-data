@@ -100,7 +100,7 @@
       "name": "Luton Islamic Centre",
       "slug": "luton-islamic-centre",
       "dataFile": "data/luton-islamic-centre.json",
-      "hasData": true
+      "hasData": false
     },
     {
       "name": "Madinah Masjid",
@@ -181,5 +181,5 @@
       "hasData": true
     }
   ],
-  "lastUpdated": "2025-12-20T00:14:09.047Z"
+  "lastUpdated": "2025-12-21T00:15:22.354Z"
 }
