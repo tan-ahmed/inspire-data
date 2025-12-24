@@ -2,78 +2,24 @@
   "mosqueName": "Saints Area Masjid",
   "timings": [
     {
-      "day": "Wednesday",
-      "date": "24-12-2025",
-      "fajr": "06:45",
-      "zuhr": "13:00",
-      "asr": "14:45",
-      "magrib": "15:57",
-      "isha": "18:45"
-    },
-    {
-      "day": "Thursday",
-      "date": "25-12-2025",
-      "fajr": "06:45",
-      "zuhr": "13:00",
-      "asr": "14:45",
-      "magrib": "15:58",
-      "isha": "18:45"
-    },
-    {
-      "day": "Friday",
-      "date": "26-12-2025",
-      "fajr": "06:45",
-      "zuhr": "12:30   13:30",
-      "asr": "14:45",
-      "magrib": "15:59",
-      "isha": "18:45"
-    },
-    {
-      "day": "Saturday",
-      "date": "27-12-2025",
-      "fajr": "06:45",
-      "zuhr": "13:00",
-      "asr": "14:45",
-      "magrib": "15:59",
-      "isha": "18:45"
-    },
-    {
-      "day": "Sunday",
-      "date": "28-12-2025",
-      "fajr": "06:45",
-      "zuhr": "13:00",
-      "asr": "14:45",
-      "magrib": "16:00",
-      "isha": "18:45"
-    },
-    {
-      "day": "Monday",
-      "date": "29-12-2025",
+      "day": "Tuesday",
+      "date": "24-12-2024",
       "fajr": "06:45",
       "zuhr": "13:00",
       "asr": "14:45",
       "magrib": "16:01",
-      "isha": "18:45"
-    },
-    {
-      "day": "Tuesday",
-      "date": "30-12-2025",
-      "fajr": "06:45",
-      "zuhr": "13:00",
-      "asr": "14:45",
-      "magrib": "16:02",
-      "isha": "18:45"
+      "isha": "19:30"
     },
     {
       "day": "Wednesday",
-      "date": "31-12-2025",
+      "date": "25-12-2024",
       "fajr": "06:45",
       "zuhr": "13:00",
       "asr": "14:45",
-      "magrib": "16:03",
-      "isha": "18:45"
+      "magrib": "16:01",
+      "isha": "19:30"
     }
   ],
-  "lastChecked": "2025-12-24T00:14:23.333Z",
+  "lastChecked": "2025-12-24T17:41:29.945Z",
   "isStale": false
 }

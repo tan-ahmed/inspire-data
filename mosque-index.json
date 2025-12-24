@@ -58,7 +58,7 @@
       "name": "Jalalabad Jamia Masjid",
       "slug": "jalalabad-jamia-masjid",
       "dataFile": "data/jalalabad-jamia-masjid.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Jamia Al-Akbaria",
@@ -181,5 +181,5 @@
       "hasData": true
     }
   ],
-  "lastUpdated": "2025-12-24T00:14:27.362Z"
+  "lastUpdated": "2025-12-24T17:41:33.524Z"
 }
