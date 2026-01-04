@@ -2,24 +2,24 @@
   "mosqueName": "Dunstable Masjid",
   "timings": [
     {
-      "day": "Saturday",
-      "date": "03-01-2026",
-      "fajr": "07:00",
-      "zuhr": "13:15",
-      "asr": "15:00",
-      "magrib": "16:10",
-      "isha": "19:00"
-    },
-    {
       "day": "Sunday",
       "date": "04-01-2026",
       "fajr": "07:00",
       "zuhr": "13:15",
       "asr": "15:00",
-      "magrib": "16:10",
+      "magrib": "16:11",
+      "isha": "19:00"
+    },
+    {
+      "day": "Monday",
+      "date": "05-01-2026",
+      "fajr": "07:00",
+      "zuhr": "13:15",
+      "asr": "15:00",
+      "magrib": "16:11",
       "isha": "19:00"
     }
   ],
-  "lastChecked": "2026-01-03T00:13:52.488Z",
+  "lastChecked": "2026-01-04T00:16:10.291Z",
   "isStale": false
 }

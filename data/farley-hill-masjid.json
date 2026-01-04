@@ -2,15 +2,6 @@
   "mosqueName": "Farley Hill Masjid",
   "timings": [
     {
-      "day": "Saturday",
-      "date": "03-01-2026",
-      "fajr": "07:30",
-      "zuhr": "13:00",
-      "asr": "14:45",
-      "magrib": "16:06",
-      "isha": "19:00"
-    },
-    {
       "day": "Sunday",
       "date": "04-01-2026",
       "fajr": "07:30",
@@ -263,6 +254,6 @@
       "isha": "19:00"
     }
   ],
-  "lastChecked": "2026-01-03T00:13:43.630Z",
+  "lastChecked": "2026-01-04T00:16:00.754Z",
   "isStale": false
 }
