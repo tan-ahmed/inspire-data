@@ -2,24 +2,6 @@
   "mosqueName": "Hockwell Ring Masjid",
   "timings": [
     {
-      "day": "Wednesday",
-      "date": "07-01-2026",
-      "fajr": "07:00",
-      "zuhr": "13:00",
-      "asr": "14:45",
-      "magrib": "16:11",
-      "isha": "19:15"
-    },
-    {
-      "day": "Thursday",
-      "date": "08-01-2026",
-      "fajr": "07:00",
-      "zuhr": "13:00",
-      "asr": "14:45",
-      "magrib": "16:13",
-      "isha": "19:15"
-    },
-    {
       "day": "Friday",
       "date": "09-01-2026",
       "fajr": "07:00",
@@ -227,6 +209,6 @@
       "isha": "19:15"
     }
   ],
-  "lastChecked": "2026-01-07T00:13:03.111Z",
+  "lastChecked": "2026-01-09T00:14:35.721Z",
   "isStale": false
 }
