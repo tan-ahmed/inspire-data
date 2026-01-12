@@ -1,6 +1,187 @@
 {
   "mosqueName": "Masjid-e-Ali",
-  "timings": [],
-  "lastChecked": "2026-01-11T00:16:10.334Z",
+  "timings": [
+    {
+      "day": "Monday",
+      "date": "12-01-2026",
+      "fajr": "06:24",
+      "zuhr": "12:12",
+      "asr": "",
+      "magrib": "16:35",
+      "isha": ""
+    },
+    {
+      "day": "Tuesday",
+      "date": "13-01-2026",
+      "fajr": "06:23",
+      "zuhr": "12:12",
+      "asr": "",
+      "magrib": "16:36",
+      "isha": ""
+    },
+    {
+      "day": "Wednesday",
+      "date": "14-01-2026",
+      "fajr": "06:23",
+      "zuhr": "12:13",
+      "asr": "",
+      "magrib": "16:38",
+      "isha": ""
+    },
+    {
+      "day": "Thursday",
+      "date": "15-01-2026",
+      "fajr": "06:22",
+      "zuhr": "12:13",
+      "asr": "",
+      "magrib": "16:39",
+      "isha": ""
+    },
+    {
+      "day": "Friday",
+      "date": "16-01-2026",
+      "fajr": "06:22",
+      "zuhr": "12:14",
+      "asr": "",
+      "magrib": "16:41",
+      "isha": ""
+    },
+    {
+      "day": "Saturday",
+      "date": "17-01-2026",
+      "fajr": "06:21",
+      "zuhr": "12:14",
+      "asr": "",
+      "magrib": "16:42",
+      "isha": ""
+    },
+    {
+      "day": "Sunday",
+      "date": "18-01-2026",
+      "fajr": "06:20",
+      "zuhr": "12:14",
+      "asr": "",
+      "magrib": "16:44",
+      "isha": ""
+    },
+    {
+      "day": "Monday",
+      "date": "19-01-2026",
+      "fajr": "06:19",
+      "zuhr": "12:14",
+      "asr": "",
+      "magrib": "16:46",
+      "isha": ""
+    },
+    {
+      "day": "Tuesday",
+      "date": "20-01-2026",
+      "fajr": "06:19",
+      "zuhr": "12:15",
+      "asr": "",
+      "magrib": "16:47",
+      "isha": ""
+    },
+    {
+      "day": "Wednesday",
+      "date": "21-01-2026",
+      "fajr": "06:18",
+      "zuhr": "12:15",
+      "asr": "",
+      "magrib": "16:49",
+      "isha": ""
+    },
+    {
+      "day": "Thursday",
+      "date": "22-01-2026",
+      "fajr": "06:17",
+      "zuhr": "12:15",
+      "asr": "",
+      "magrib": "16:51",
+      "isha": ""
+    },
+    {
+      "day": "Friday",
+      "date": "23-01-2026",
+      "fajr": "06:16",
+      "zuhr": "12:16",
+      "asr": "",
+      "magrib": "16:52",
+      "isha": ""
+    },
+    {
+      "day": "Saturday",
+      "date": "24-01-2026",
+      "fajr": "06:15",
+      "zuhr": "12:16",
+      "asr": "",
+      "magrib": "16:54",
+      "isha": ""
+    },
+    {
+      "day": "Sunday",
+      "date": "25-01-2026",
+      "fajr": "06:14",
+      "zuhr": "12:16",
+      "asr": "",
+      "magrib": "16:56",
+      "isha": ""
+    },
+    {
+      "day": "Monday",
+      "date": "26-01-2026",
+      "fajr": "06:13",
+      "zuhr": "12:16",
+      "asr": "",
+      "magrib": "16:58",
+      "isha": ""
+    },
+    {
+      "day": "Tuesday",
+      "date": "27-01-2026",
+      "fajr": "06:12",
+      "zuhr": "12:16",
+      "asr": "",
+      "magrib": "16:59",
+      "isha": ""
+    },
+    {
+      "day": "Wednesday",
+      "date": "28-01-2026",
+      "fajr": "06:10",
+      "zuhr": "12:17",
+      "asr": "",
+      "magrib": "17:01",
+      "isha": ""
+    },
+    {
+      "day": "Thursday",
+      "date": "29-01-2026",
+      "fajr": "06:09",
+      "zuhr": "12:17",
+      "asr": "",
+      "magrib": "17:03",
+      "isha": ""
+    },
+    {
+      "day": "Friday",
+      "date": "30-01-2026",
+      "fajr": "06:08",
+      "zuhr": "12:17",
+      "asr": "",
+      "magrib": "17:05",
+      "isha": ""
+    },
+    {
+      "day": "Saturday",
+      "date": "31-01-2026",
+      "fajr": "06:07",
+      "zuhr": "12:17",
+      "asr": "",
+      "magrib": "17:07",
+      "isha": ""
+    }
+  ],
+  "lastChecked": "2026-01-12T00:15:16.764Z",
   "isStale": false
 }
