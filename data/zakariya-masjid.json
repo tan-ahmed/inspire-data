@@ -2,15 +2,6 @@
   "mosqueName": "Zakariya Masjid",
   "timings": [
     {
-      "day": "Tuesday",
-      "date": "20-01-2026",
-      "fajr": "06:40",
-      "zuhr": "13:15",
-      "asr": "15:00",
-      "magrib": "16:31",
-      "isha": "20:00"
-    },
-    {
       "day": "Wednesday",
       "date": "21-01-2026",
       "fajr": "06:40",
@@ -110,6 +101,6 @@
       "isha": "18:45"
     }
   ],
-  "lastChecked": "2026-01-20T00:28:10.349Z",
+  "lastChecked": "2026-01-21T00:29:50.781Z",
   "isStale": false
 }
