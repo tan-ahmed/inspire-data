@@ -2,15 +2,6 @@
   "mosqueName": "Jamia Al-Akbaria",
   "timings": [
     {
-      "day": "Friday",
-      "date": "30-01-2026",
-      "fajr": "06:45",
-      "zuhr": "13:00",
-      "asr": "15:15",
-      "magrib": "16:49",
-      "isha": "18:45"
-    },
-    {
       "day": "Saturday",
       "date": "31-01-2026",
       "fajr": "06:45",
@@ -20,6 +11,6 @@
       "isha": "18:45"
     }
   ],
-  "lastChecked": "2026-01-30T00:32:57.152Z",
+  "lastChecked": "2026-01-31T00:31:53.106Z",
   "isStale": false
 }
