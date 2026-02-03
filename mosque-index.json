@@ -82,7 +82,7 @@
       "name": "Leagrave Hall Masjid",
       "slug": "leagrave-hall-masjid",
       "dataFile": "data/leagrave-hall-masjid.json",
-      "hasData": true
+      "hasData": false
     },
     {
       "name": "Lewsey Community Centre",
@@ -142,7 +142,7 @@
       "name": "Masjid-e-Ali",
       "slug": "masjid-e-ali",
       "dataFile": "data/masjid-e-ali.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Masjid-e-Noor",
@@ -181,5 +181,5 @@
       "hasData": true
     }
   ],
-  "lastUpdated": "2026-02-02T17:10:36.284Z"
+  "lastUpdated": "2026-02-03T00:36:03.565Z"
 }
