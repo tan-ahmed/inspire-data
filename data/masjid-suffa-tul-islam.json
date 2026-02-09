@@ -2,24 +2,96 @@
   "mosqueName": "Masjid Suffa-Tul-Islam",
   "timings": [
     {
-      "day": "Monday",
-      "date": "09-02-2026",
-      "fajr": "06:15",
-      "zuhr": "13:00",
-      "asr": "17:08",
-      "magrib": "18:59",
+      "day": "Thursday",
+      "date": "19-02-2026",
+      "fajr": "05:35",
+      "zuhr": "",
+      "asr": "16:15",
+      "magrib": "17:26",
       "isha": "19:30"
     },
     {
-      "day": "Tuesday",
-      "date": "10-02-2026",
-      "fajr": "06:15",
+      "day": "Friday",
+      "date": "20-02-2026",
+      "fajr": "05:35",
       "zuhr": "13:00",
-      "asr": "17:10",
-      "magrib": "19:01",
+      "asr": "16:15",
+      "magrib": "17:28",
       "isha": "19:30"
+    },
+    {
+      "day": "Saturday",
+      "date": "21-02-2026",
+      "fajr": "05:35",
+      "zuhr": "13:00",
+      "asr": "16:15",
+      "magrib": "17:30",
+      "isha": "19:30"
+    },
+    {
+      "day": "Sunday",
+      "date": "22-02-2026",
+      "fajr": "05:35",
+      "zuhr": "13:00",
+      "asr": "16:15",
+      "magrib": "17:32",
+      "isha": "19:30"
+    },
+    {
+      "day": "Monday",
+      "date": "23-02-2026",
+      "fajr": "05:30",
+      "zuhr": "13:00",
+      "asr": "16:15",
+      "magrib": "17:34",
+      "isha": "19:40"
+    },
+    {
+      "day": "Tuesday",
+      "date": "24-02-2026",
+      "fajr": "05:30",
+      "zuhr": "13:00",
+      "asr": "16:15",
+      "magrib": "17:36",
+      "isha": "19:40"
+    },
+    {
+      "day": "Wednesday",
+      "date": "25-02-2026",
+      "fajr": "05:30",
+      "zuhr": "13:00",
+      "asr": "16:15",
+      "magrib": "17:37",
+      "isha": "19:40"
+    },
+    {
+      "day": "Thursday",
+      "date": "26-02-2026",
+      "fajr": "05:30",
+      "zuhr": "13:00",
+      "asr": "16:15",
+      "magrib": "17:39",
+      "isha": "19:40"
+    },
+    {
+      "day": "Friday",
+      "date": "27-02-2026",
+      "fajr": "05:30",
+      "zuhr": "13:00",
+      "asr": "16:35",
+      "magrib": "17:41",
+      "isha": "19:50"
+    },
+    {
+      "day": "Saturday",
+      "date": "28-02-2026",
+      "fajr": "05:30",
+      "zuhr": "13:00",
+      "asr": "16:35",
+      "magrib": "17:43",
+      "isha": "19:50"
     }
   ],
-  "lastChecked": "2026-02-09T00:36:30.628Z",
+  "lastChecked": "2026-02-09T20:58:40.852Z",
   "isStale": false
 }
