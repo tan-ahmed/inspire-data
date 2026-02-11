@@ -22,7 +22,7 @@
       "name": "Bait Ul Abrar Jamia Masjid",
       "slug": "bait-ul-abrar-jamia-masjid",
       "dataFile": "data/bait-ul-abrar-jamia-masjid.json",
-      "hasData": true
+      "hasData": false
     },
     {
       "name": "Bury Park Jamia Masjid",
@@ -52,7 +52,7 @@
       "name": "Hockwell Ring Masjid",
       "slug": "hockwell-ring-masjid",
       "dataFile": "data/hockwell-ring-masjid.json",
-      "hasData": true
+      "hasData": false
     },
     {
       "name": "Jalalabad Jamia Masjid",
@@ -178,8 +178,8 @@
       "name": "Zuhri Academy",
       "slug": "zuhri-academy",
       "dataFile": "data/zuhri-academy.json",
-      "hasData": true
+      "hasData": false
     }
   ],
-  "lastUpdated": "2026-02-10T00:41:31.913Z"
+  "lastUpdated": "2026-02-11T00:40:57.656Z"
 }
