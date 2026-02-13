@@ -4,11 +4,11 @@
     {
       "day": "Friday",
       "date": "13-02-2026",
-      "fajr": "06:31",
+      "fajr": "06:17",
       "zuhr": "12:39",
-      "asr": "14:44",
-      "magrib": "17:03",
-      "isha": "18:17"
+      "asr": "14:57",
+      "magrib": "17:19",
+      "isha": "18:32"
     },
     {
       "day": "Saturday",
@@ -20,6 +20,6 @@
       "isha": "18:33"
     }
   ],
-  "lastChecked": "2026-02-13T00:37:37.385Z",
+  "lastChecked": "2026-02-13T19:37:27.772Z",
   "isStale": false
 }
