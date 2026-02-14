@@ -34,7 +34,7 @@
       "name": "Dunstable Masjid",
       "slug": "dunstable-masjid",
       "dataFile": "data/dunstable-masjid.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Faizan-e-Mushkil Kusha",
@@ -52,7 +52,7 @@
       "name": "Hockwell Ring Masjid",
       "slug": "hockwell-ring-masjid",
       "dataFile": "data/hockwell-ring-masjid.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Jalalabad Jamia Masjid",
@@ -124,7 +124,7 @@
       "name": "Masjid Bilal",
       "slug": "masjid-bilal",
       "dataFile": "data/masjid-bilal.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Masjid Irshad",
@@ -154,7 +154,7 @@
       "name": "Saints Area Masjid",
       "slug": "saints-area-masjid",
       "dataFile": "data/saints-area-masjid.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Turkish Community Assoc",
@@ -172,14 +172,14 @@
       "name": "Zakariya Masjid",
       "slug": "zakariya-masjid",
       "dataFile": "data/zakariya-masjid.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Zuhri Academy",
       "slug": "zuhri-academy",
       "dataFile": "data/zuhri-academy.json",
-      "hasData": false
+      "hasData": true
     }
   ],
-  "lastUpdated": "2026-02-14T10:18:47.343Z"
+  "lastUpdated": "2026-02-14T10:25:03.521Z"
 }
