@@ -152,16 +152,16 @@
       "zuhr": "13:00",
       "asr": "15:45",
       "magrib": "17:27",
-      "isha": "19:15"
+      "isha": "19:45"
     },
     {
       "day": "Wednesday",
       "date": "18-02-2026",
-      "fajr": "06:30",
+      "fajr": "05:55",
       "zuhr": "13:00",
       "asr": "15:45",
-      "magrib": "17:29",
-      "isha": "19:15"
+      "magrib": "17:39",
+      "isha": "19:45"
     },
     {
       "day": "Thursday",
@@ -254,6 +254,6 @@
       "isha": "20:00"
     }
   ],
-  "lastChecked": "2026-02-17T00:35:22.321Z",
+  "lastChecked": "2026-02-17T18:30:21.010Z",
   "isStale": false
 }

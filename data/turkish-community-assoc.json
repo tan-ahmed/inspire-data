@@ -1,6 +1,97 @@
 {
   "mosqueName": "Turkish Community Assoc",
-  "timings": [],
-  "lastChecked": "2026-02-17T00:35:41.203Z",
+  "timings": [
+    {
+      "day": "Thursday",
+      "date": "19-02-2026",
+      "fajr": "05:17",
+      "zuhr": "12:30",
+      "asr": "15:45",
+      "magrib": "17:29",
+      "isha": ""
+    },
+    {
+      "day": "Friday",
+      "date": "20-02-2026",
+      "fajr": "05:15",
+      "zuhr": "12:30",
+      "asr": "15:45",
+      "magrib": "17:31",
+      "isha": ""
+    },
+    {
+      "day": "Saturday",
+      "date": "21-02-2026",
+      "fajr": "05:13",
+      "zuhr": "12:30",
+      "asr": "15:45",
+      "magrib": "17:33",
+      "isha": ""
+    },
+    {
+      "day": "Sunday",
+      "date": "22-02-2026",
+      "fajr": "05:11",
+      "zuhr": "12:30",
+      "asr": "15:45",
+      "magrib": "17:34",
+      "isha": ""
+    },
+    {
+      "day": "Monday",
+      "date": "23-02-2026",
+      "fajr": "05:09",
+      "zuhr": "12:30",
+      "asr": "15:45",
+      "magrib": "17:36",
+      "isha": ""
+    },
+    {
+      "day": "Tuesday",
+      "date": "24-02-2026",
+      "fajr": "05:07",
+      "zuhr": "12:30",
+      "asr": "15:45",
+      "magrib": "17:38",
+      "isha": ""
+    },
+    {
+      "day": "Wednesday",
+      "date": "25-02-2026",
+      "fajr": "05:05",
+      "zuhr": "12:30",
+      "asr": "15:45",
+      "magrib": "17:40",
+      "isha": ""
+    },
+    {
+      "day": "Thursday",
+      "date": "26-02-2026",
+      "fajr": "05:03",
+      "zuhr": "12:30",
+      "asr": "15:45",
+      "magrib": "17:42",
+      "isha": ""
+    },
+    {
+      "day": "Friday",
+      "date": "27-02-2026",
+      "fajr": "05:01",
+      "zuhr": "12:30",
+      "asr": "15:45",
+      "magrib": "17:44",
+      "isha": ""
+    },
+    {
+      "day": "Saturday",
+      "date": "28-02-2026",
+      "fajr": "04:58",
+      "zuhr": "12:30",
+      "asr": "15:45",
+      "magrib": "17:45",
+      "isha": ""
+    }
+  ],
+  "lastChecked": "2026-02-17T18:30:42.746Z",
   "isStale": false
 }

@@ -2,24 +2,105 @@
   "mosqueName": "Luton Islamic Centre",
   "timings": [
     {
-      "day": "Tuesday",
-      "date": "17-02-2026",
-      "fajr": "06:31",
-      "zuhr": "12:39",
-      "asr": "14:44",
-      "magrib": "17:03",
-      "isha": "18:17"
-    },
-    {
       "day": "Wednesday",
       "date": "18-02-2026",
       "fajr": "06:08",
       "zuhr": "12:39",
       "asr": "15:04",
-      "magrib": "17:28",
-      "isha": "18:40"
+      "magrib": "17:27",
+      "isha": "19:05"
+    },
+    {
+      "day": "Thursday",
+      "date": "19-02-2026",
+      "fajr": "06:06",
+      "zuhr": "12:38",
+      "asr": "15:06",
+      "magrib": "17:29",
+      "isha": "19:07"
+    },
+    {
+      "day": "Friday",
+      "date": "20-02-2026",
+      "fajr": "06:04",
+      "zuhr": "12:50",
+      "asr": "15:07",
+      "magrib": "17:31",
+      "isha": "19:09"
+    },
+    {
+      "day": "Saturday",
+      "date": "21-02-2026",
+      "fajr": "06:02",
+      "zuhr": "12:38",
+      "asr": "15:09",
+      "magrib": "17:33",
+      "isha": "19:10"
+    },
+    {
+      "day": "Sunday",
+      "date": "22-02-2026",
+      "fajr": "06:00",
+      "zuhr": "12:38",
+      "asr": "15:10",
+      "magrib": "17:35",
+      "isha": "19:12"
+    },
+    {
+      "day": "Monday",
+      "date": "23-02-2026",
+      "fajr": "05:58",
+      "zuhr": "12:38",
+      "asr": "15:11",
+      "magrib": "17:37",
+      "isha": "19:14"
+    },
+    {
+      "day": "Tuesday",
+      "date": "24-02-2026",
+      "fajr": "05:56",
+      "zuhr": "12:38",
+      "asr": "15:13",
+      "magrib": "17:38",
+      "isha": "19:16"
+    },
+    {
+      "day": "Wednesday",
+      "date": "25-02-2026",
+      "fajr": "05:54",
+      "zuhr": "12:38",
+      "asr": "15:14",
+      "magrib": "17:40",
+      "isha": "19:17"
+    },
+    {
+      "day": "Thursday",
+      "date": "26-02-2026",
+      "fajr": "05:52",
+      "zuhr": "12:38",
+      "asr": "15:15",
+      "magrib": "17:42",
+      "isha": "19:19"
+    },
+    {
+      "day": "Friday",
+      "date": "27-02-2026",
+      "fajr": "05:50",
+      "zuhr": "12:50",
+      "asr": "15:17",
+      "magrib": "17:44",
+      "isha": "19:21"
+    },
+    {
+      "day": "Saturday",
+      "date": "28-02-2026",
+      "fajr": "05:48",
+      "zuhr": "12:37",
+      "asr": "15:18",
+      "magrib": "17:46",
+      "isha": "19:22"
     }
   ],
-  "lastChecked": "2026-02-17T00:35:41.321Z",
+  "lastChecked": "2026-02-17T18:30:42.734Z",
   "isStale": false
 }
