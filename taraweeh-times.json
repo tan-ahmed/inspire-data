@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Al Furqan",
+    "ishaJamaat": "19:45",
+    "womenFacilities": "",
+    "slug": "al-furqan"
+  },
+  {
+    "name": "Al-Hira Centre",
+    "ishaJamaat": "19:15",
+    "womenFacilities": "yes",
+    "slug": "al-hira-centre"
+  },
+  {
+    "name": "Al-Jalal Masjid",
+    "ishaJamaat": "19:30",
+    "womenFacilities": "yes",
+    "slug": "al-jalal-masjid"
+  },
+  {
+    "name": "Baitul Abraar Jami Masjid",
+    "ishaJamaat": "19:45",
+    "womenFacilities": "",
+    "slug": "bait-ul-abrar-jamia-masjid"
+  },
+  {
+    "name": "Bury Park Jamia Masjid",
+    "ishaJamaat": "19:45",
+    "womenFacilities": "",
+    "slug": "bury-park-jamia-masjid"
+  },
+  {
+    "name": "Bushmead Community Hub",
+    "ishaJamaat": "19:45",
+    "womenFacilities": "yes",
+    "slug": "bushmead-community-hub"
+  },
+  {
+    "name": "Chalk Hills Academy",
+    "ishaJamaat": "19:30",
+    "womenFacilities": "yes",
+    "slug": "chalk-hills-academy"
+  },
+  {
+    "name": "Dunstable Masjid",
+    "ishaJamaat": "19:15",
+    "womenFacilities": "",
+    "slug": "dunstable-masjid"
+  },
+  {
+    "name": "Faizan-e-Mushkil Kusha",
+    "ishaJamaat": "19:35",
+    "womenFacilities": "",
+    "slug": "faizan-e-mushkil-kusha"
+  },
+  {
+    "name": "Farley Community Centre",
+    "ishaJamaat": "19:15",
+    "womenFacilities": "",
+    "slug": "farley-community-centre"
+  },
+  {
+    "name": "Farley Hill Masjid",
+    "ishaJamaat": "19:15",
+    "womenFacilities": "",
+    "slug": "farley-hill-masjid"
+  },
+  {
+    "name": "Grand Bazar Supermarket",
+    "ishaJamaat": "21:00",
+    "womenFacilities": "yes",
+    "slug": "grand-bazar-supermarket"
+  },
+  {
+    "name": "Hockwell Ring Masjid",
+    "ishaJamaat": "19:45",
+    "womenFacilities": "yes",
+    "slug": "hockwell-ring-masjid"
+  },
+  {
+    "name": "Jalalabad Jame Masjid",
+    "ishaJamaat": "19:45",
+    "womenFacilities": "",
+    "slug": "jalalabad-jamia-masjid"
+  },
+  {
+    "name": "Jamia Al-Akbaria",
+    "ishaJamaat": "19:30",
+    "womenFacilities": "",
+    "slug": "jamia-al-akbaria"
+  },
+  {
+    "name": "Jamia Islamia Ghousia Trust",
+    "ishaJamaat": "19:20",
+    "womenFacilities": "yes",
+    "slug": "jamia-islamia-ghousia-trust"
+  },
+  {
+    "name": "Kokni Masjid",
+    "ishaJamaat": "19:30",
+    "womenFacilities": "yes",
+    "slug": "kokni-masjid"
+  },
+  {
+    "name": "Leagrave Hall Masjid",
+    "ishaJamaat": "19:40",
+    "womenFacilities": "",
+    "slug": "leagrave-hall-masjid"
+  },
+  {
+    "name": "Luton Central Masjid",
+    "ishaJamaat": "19:30",
+    "womenFacilities": "yes",
+    "slug": "luton-central-masjid"
+  },
+  {
+    "name": "Luton Islamic Centre",
+    "ishaJamaat": "18:45",
+    "womenFacilities": "yes",
+    "slug": "luton-islamic-centre"
+  },
+  {
+    "name": "Madinah Masjid",
+    "ishaJamaat": "20:00",
+    "womenFacilities": "yes",
+    "slug": "madinah-masjid"
+  },
+  {
+    "name": "Masjid Al-Huda",
+    "ishaJamaat": "19:00",
+    "womenFacilities": "",
+    "slug": "masjid-al-huda"
+  },
+  {
+    "name": "Masjid As-Sunnah",
+    "ishaJamaat": "19:20",
+    "womenFacilities": "",
+    "slug": "masjid-as-sunnah"
+  },
+  {
+    "name": "Masjid Bilal",
+    "ishaJamaat": "19:30",
+    "womenFacilities": "",
+    "slug": "masjid-bilal"
+  },
+  {
+    "name": "Masjid Ibrahim",
+    "ishaJamaat": null,
+    "womenFacilities": "",
+    "slug": "masjid-ibrahim"
+  },
+  {
+    "name": "Masjid Irshad",
+    "ishaJamaat": "19:45",
+    "womenFacilities": "",
+    "slug": "masjid-irshad"
+  },
+  {
+    "name": "Masjid Suffa-Tul-Islam",
+    "ishaJamaat": "19:30",
+    "womenFacilities": "",
+    "slug": "masjid-suffa-tul-islam"
+  },
+  {
+    "name": "Masjid-e-Noor",
+    "ishaJamaat": "19:30",
+    "womenFacilities": "",
+    "slug": "masjid-e-noor"
+  },
+  {
+    "name": "Saints Area Masjid",
+    "ishaJamaat": "19:30",
+    "womenFacilities": "",
+    "slug": "saints-area-masjid"
+  },
+  {
+    "name": "Turkish Community Assoc.",
+    "ishaJamaat": "19:02",
+    "womenFacilities": "",
+    "slug": "turkish-community-assoc"
+  },
+  {
+    "name": "Venue Central Chapel Street",
+    "ishaJamaat": "19:30",
+    "womenFacilities": "yes",
+    "slug": "venue-central-chapel-street"
+  },
+  {
+    "name": "Wigmore Primary School",
+    "ishaJamaat": "20:00",
+    "womenFacilities": "",
+    "slug": "wigmore-primary-school"
+  },
+  {
+    "name": "Yusuf Hall",
+    "ishaJamaat": "19:45",
+    "womenFacilities": "",
+    "slug": "yusuf-hall"
+  },
+  {
+    "name": "Zakariya Masjid",
+    "ishaJamaat": "19:30",
+    "womenFacilities": "",
+    "slug": "zakariya-masjid"
+  },
+  {
+    "name": "Zuhri Academy",
+    "ishaJamaat": "19:30",
+    "womenFacilities": "yes",
+    "slug": "zuhri-academy"
+  }
+]
