@@ -215,7 +215,7 @@
       "zuhr": "12:45",
       "asr": "16:15",
       "magrib": "17:36",
-      "isha": "19:30"
+      "isha": "19:15"
     },
     {
       "day": "Wednesday",
@@ -254,6 +254,6 @@
       "isha": "19:30"
     }
   ],
-  "lastChecked": "2026-02-24T00:32:58.282Z",
+  "lastChecked": "2026-02-25T00:37:15.389Z",
   "isStale": false
 }
