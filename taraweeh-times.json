@@ -13,7 +13,7 @@
   },
   {
     "name": "Al-Jalal Masjid",
-    "ishaJamaat": "19:30",
+    "ishaJamaat": null,
     "womenFacilities": "yes",
     "slug": "al-jalal-masjid"
   },
@@ -115,7 +115,7 @@
   },
   {
     "name": "Luton Islamic Centre",
-    "ishaJamaat": "18:45",
+    "ishaJamaat": "19:26",
     "womenFacilities": "yes",
     "slug": "luton-islamic-centre"
   },
