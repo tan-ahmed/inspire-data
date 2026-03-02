@@ -7,13 +7,13 @@
   },
   {
     "name": "Al-Hira Centre",
-    "ishaJamaat": "19:15",
+    "ishaJamaat": "19:45",
     "womenFacilities": "yes",
     "slug": "al-hira-centre"
   },
   {
     "name": "Al-Jalal Masjid",
-    "ishaJamaat": "19:45 / 00:00",
+    "ishaJamaat": "19:45 / 24:00",
     "womenFacilities": "yes",
     "slug": "al-jalal-masjid"
   },
@@ -55,13 +55,13 @@
   },
   {
     "name": "Farley Community Centre",
-    "ishaJamaat": "19:15",
+    "ishaJamaat": "19:45",
     "womenFacilities": "",
     "slug": "farley-community-centre"
   },
   {
     "name": "Farley Hill Masjid",
-    "ishaJamaat": "19:15",
+    "ishaJamaat": "19:45",
     "womenFacilities": "",
     "slug": "farley-hill-masjid"
   },
@@ -139,7 +139,7 @@
   },
   {
     "name": "Masjid Bilal",
-    "ishaJamaat": "19:30",
+    "ishaJamaat": "19:45",
     "womenFacilities": "",
     "slug": "masjid-bilal"
   },
@@ -163,7 +163,7 @@
   },
   {
     "name": "Masjid-e-Noor",
-    "ishaJamaat": "19:30",
+    "ishaJamaat": "19:45",
     "womenFacilities": "",
     "slug": "masjid-e-noor"
   },
@@ -205,7 +205,7 @@
   },
   {
     "name": "Zuhri Academy",
-    "ishaJamaat": "19:30",
+    "ishaJamaat": "19:45",
     "womenFacilities": "yes",
     "slug": "zuhri-academy"
   }
