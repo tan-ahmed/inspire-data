@@ -22,13 +22,13 @@
       "name": "Bait Ul Abrar Jamia Masjid",
       "slug": "bait-ul-abrar-jamia-masjid",
       "dataFile": "data/bait-ul-abrar-jamia-masjid.json",
-      "hasData": true
+      "hasData": false
     },
     {
       "name": "Bury Park Jamia Masjid",
       "slug": "bury-park-jamia-masjid",
       "dataFile": "data/bury-park-jamia-masjid.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Dunstable Masjid",
@@ -181,5 +181,5 @@
       "hasData": true
     }
   ],
-  "lastUpdated": "2026-03-03T00:35:57.832Z"
+  "lastUpdated": "2026-03-04T00:34:24.333Z"
 }
