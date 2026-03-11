@@ -28,7 +28,7 @@
       "name": "Bury Park Jamia Masjid",
       "slug": "bury-park-jamia-masjid",
       "dataFile": "data/bury-park-jamia-masjid.json",
-      "hasData": true
+      "hasData": false
     },
     {
       "name": "Dunstable Masjid",
@@ -181,5 +181,5 @@
       "hasData": true
     }
   ],
-  "lastUpdated": "2026-03-10T00:32:10.548Z"
+  "lastUpdated": "2026-03-11T00:32:01.898Z"
 }
