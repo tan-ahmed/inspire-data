@@ -7,19 +7,19 @@
       "fajr": "05:00",
       "zuhr": "12:45",
       "asr": "16:45",
-      "magrib": "18:35",
+      "magrib": "18:36",
       "isha": "20:00"
     },
     {
-      "day": "Sunday",
-      "date": "29-03-2026",
+      "day": "Monday",
+      "date": "30-03-2026",
       "fajr": "05:00",
       "zuhr": "12:45",
       "asr": "16:45",
-      "magrib": "18:36",
+      "magrib": "18:38",
       "isha": "20:00"
     }
   ],
-  "lastChecked": "2026-03-29T00:40:47.414Z",
+  "lastChecked": "2026-03-30T00:40:37.193Z",
   "isStale": false
 }
