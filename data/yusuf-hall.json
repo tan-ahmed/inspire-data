@@ -2,15 +2,6 @@
   "mosqueName": "Yusuf Hall",
   "timings": [
     {
-      "day": "Tuesday",
-      "date": "14-04-2026",
-      "fajr": "05:15",
-      "zuhr": "13:30",
-      "asr": "18:15",
-      "magrib": "20:00",
-      "isha": "21:30"
-    },
-    {
       "day": "Wednesday",
       "date": "15-04-2026",
       "fajr": "05:15",
@@ -155,6 +146,6 @@
       "isha": "21:45"
     }
   ],
-  "lastChecked": "2026-04-14T00:45:54.703Z",
+  "lastChecked": "2026-04-15T00:45:21.783Z",
   "isStale": false
 }
