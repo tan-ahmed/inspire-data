@@ -2,21 +2,12 @@
   "mosqueName": "Bait Ul Abrar Jamia Masjid",
   "timings": [
     {
-      "day": "Monday",
-      "date": "20-04-2026",
-      "fajr": "05:15",
-      "zuhr": "13:30",
-      "asr": "18:30",
-      "magrib": "20:10",
-      "isha": "21:45"
-    },
-    {
       "day": "Tuesday",
       "date": "21-04-2026",
       "fajr": "05:15",
       "zuhr": "13:30",
       "asr": "18:30",
-      "magrib": "20:12",
+      "magrib": "20:14",
       "isha": "21:45"
     },
     {
@@ -25,82 +16,10 @@
       "fajr": "05:15",
       "zuhr": "13:30",
       "asr": "18:30",
-      "magrib": "20:13",
-      "isha": "21:45"
-    },
-    {
-      "day": "Thursday",
-      "date": "23-04-2026",
-      "fajr": "05:15",
-      "zuhr": "13:30",
-      "asr": "18:30",
       "magrib": "20:15",
       "isha": "21:45"
-    },
-    {
-      "day": "Friday",
-      "date": "24-04-2026",
-      "fajr": "05:15",
-      "zuhr": "13:30   14:30",
-      "asr": "18:30",
-      "magrib": "20:17",
-      "isha": "21:45"
-    },
-    {
-      "day": "Saturday",
-      "date": "25-04-2026",
-      "fajr": "05:15",
-      "zuhr": "13:30",
-      "asr": "18:30",
-      "magrib": "20:18",
-      "isha": "21:45"
-    },
-    {
-      "day": "Sunday",
-      "date": "26-04-2026",
-      "fajr": "05:00",
-      "zuhr": "13:30",
-      "asr": "18:45",
-      "magrib": "20:20",
-      "isha": "22:00"
-    },
-    {
-      "day": "Monday",
-      "date": "27-04-2026",
-      "fajr": "05:00",
-      "zuhr": "13:30",
-      "asr": "18:45",
-      "magrib": "20:22",
-      "isha": "22:00"
-    },
-    {
-      "day": "Tuesday",
-      "date": "28-04-2026",
-      "fajr": "05:00",
-      "zuhr": "13:30",
-      "asr": "18:45",
-      "magrib": "20:23",
-      "isha": "22:00"
-    },
-    {
-      "day": "Wednesday",
-      "date": "29-04-2026",
-      "fajr": "05:00",
-      "zuhr": "13:30",
-      "asr": "18:45",
-      "magrib": "20:25",
-      "isha": "22:00"
-    },
-    {
-      "day": "Thursday",
-      "date": "30-04-2026",
-      "fajr": "05:00",
-      "zuhr": "13:30",
-      "asr": "18:45",
-      "magrib": "20:27",
-      "isha": "22:00"
     }
   ],
-  "lastChecked": "2026-04-20T00:44:30.607Z",
+  "lastChecked": "2026-04-21T00:44:22.851Z",
   "isStale": false
 }
