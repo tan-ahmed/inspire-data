@@ -136,13 +136,13 @@
       "name": "Masjid Suffa-Tul-Islam",
       "slug": "masjid-suffa-tul-islam",
       "dataFile": "data/masjid-suffa-tul-islam.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Masjid-e-Ali",
       "slug": "masjid-e-ali",
       "dataFile": "data/masjid-e-ali.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Masjid-e-Noor",
@@ -166,7 +166,7 @@
       "name": "Yusuf Hall",
       "slug": "yusuf-hall",
       "dataFile": "data/yusuf-hall.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Zakariya Masjid",
@@ -181,5 +181,5 @@
       "hasData": true
     }
   ],
-  "lastUpdated": "2026-04-25T00:42:58.457Z"
+  "lastUpdated": "2026-04-26T00:47:50.700Z"
 }
