@@ -2,15 +2,6 @@
   "mosqueName": "Masjid Al-Huda",
   "timings": [
     {
-      "day": "Monday",
-      "date": "04-05-2026",
-      "fajr": "04:15",
-      "zuhr": "13:30",
-      "asr": "17:30",
-      "magrib": "20:33",
-      "isha": "21:50"
-    },
-    {
       "day": "Tuesday",
       "date": "05-05-2026",
       "fajr": "04:15",
@@ -254,6 +245,6 @@
       "isha": "22:00"
     }
   ],
-  "lastChecked": "2026-05-04T00:51:00.274Z",
+  "lastChecked": "2026-05-05T00:46:56.863Z",
   "isStale": false
 }
