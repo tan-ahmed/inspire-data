@@ -40,7 +40,7 @@
       "name": "Faizan-e-Mushkil Kusha",
       "slug": "faizan-e-mushkil-kusha",
       "dataFile": "data/faizan-e-mushkil-kusha.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Farley Hill Masjid",
@@ -76,7 +76,7 @@
       "name": "Kokni Masjid",
       "slug": "kokni-masjid",
       "dataFile": "data/kokni-masjid.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Leagrave Hall Masjid",
@@ -94,7 +94,7 @@
       "name": "Luton Central Masjid",
       "slug": "luton-central-masjid",
       "dataFile": "data/luton-central-masjid.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Luton Islamic Centre",
@@ -181,5 +181,5 @@
       "hasData": true
     }
   ],
-  "lastUpdated": "2026-05-07T00:50:40.175Z"
+  "lastUpdated": "2026-05-08T00:50:00.955Z"
 }
