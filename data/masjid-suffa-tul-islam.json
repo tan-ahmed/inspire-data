@@ -2,15 +2,6 @@
   "mosqueName": "Masjid Suffa-Tul-Islam",
   "timings": [
     {
-      "day": "Tuesday",
-      "date": "12-05-2026",
-      "fajr": "04:15",
-      "zuhr": "14:00",
-      "asr": "18:50",
-      "magrib": "20:46",
-      "isha": "22:55"
-    },
-    {
       "day": "Wednesday",
       "date": "13-05-2026",
       "fajr": "04:15",
@@ -182,6 +173,6 @@
       "isha": "22:55"
     }
   ],
-  "lastChecked": "2026-05-12T00:48:36.590Z",
+  "lastChecked": "2026-05-13T00:53:40.374Z",
   "isStale": false
 }
