@@ -2,24 +2,24 @@
   "mosqueName": "Luton Islamic Centre",
   "timings": [
     {
-      "day": "Friday",
-      "date": "05-06-2026",
-      "fajr": "03:11",
-      "zuhr": "13:22",
-      "asr": "17:32",
-      "magrib": "21:11",
-      "isha": "23:00"
-    },
-    {
       "day": "Saturday",
       "date": "06-06-2026",
-      "fajr": "02:50",
+      "fajr": "02:52",
       "zuhr": "13:23",
       "asr": "17:37",
+      "magrib": "21:23",
+      "isha": "23:20"
+    },
+    {
+      "day": "Sunday",
+      "date": "07-06-2026",
+      "fajr": "02:49",
+      "zuhr": "13:24",
+      "asr": "17:38",
       "magrib": "21:24",
-      "isha": "23:22"
+      "isha": "23:23"
     }
   ],
-  "lastChecked": "2026-06-05T01:00:48.348Z",
+  "lastChecked": "2026-06-06T00:57:51.596Z",
   "isStale": false
 }
