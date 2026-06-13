@@ -16,7 +16,7 @@
       "name": "Al Jalal Masjid",
       "slug": "al-jalal-masjid",
       "dataFile": "data/al-jalal-masjid.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Bait Ul Abrar Jamia Masjid",
@@ -70,7 +70,7 @@
       "name": "Jamia Islamia Ghousia Trust",
       "slug": "jamia-islamia-ghousia-trust",
       "dataFile": "data/jamia-islamia-ghousia-trust.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Kokni Masjid",
@@ -94,7 +94,7 @@
       "name": "Luton Central Masjid",
       "slug": "luton-central-masjid",
       "dataFile": "data/luton-central-masjid.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Luton Islamic Centre",
@@ -112,7 +112,7 @@
       "name": "Masjid Al-Huda",
       "slug": "masjid-al-huda",
       "dataFile": "data/masjid-al-huda.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Masjid As-Sunnah",
@@ -136,13 +136,13 @@
       "name": "Masjid Suffa-Tul-Islam",
       "slug": "masjid-suffa-tul-islam",
       "dataFile": "data/masjid-suffa-tul-islam.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Masjid-e-Ali",
       "slug": "masjid-e-ali",
       "dataFile": "data/masjid-e-ali.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Masjid-e-Noor",
@@ -166,7 +166,7 @@
       "name": "Yusuf Hall",
       "slug": "yusuf-hall",
       "dataFile": "data/yusuf-hall.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Zakariya Masjid",
@@ -181,5 +181,5 @@
       "hasData": true
     }
   ],
-  "lastUpdated": "2026-06-12T01:06:52.942Z"
+  "lastUpdated": "2026-06-13T01:04:56.406Z"
 }
