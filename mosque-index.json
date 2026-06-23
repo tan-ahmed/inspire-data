@@ -10,7 +10,7 @@
       "name": "Al Hira Centre",
       "slug": "al-hira-centre",
       "dataFile": "data/al-hira-centre.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Al Jalal Masjid",
@@ -76,7 +76,7 @@
       "name": "Kokni Masjid",
       "slug": "kokni-masjid",
       "dataFile": "data/kokni-masjid.json",
-      "hasData": false
+      "hasData": true
     },
     {
       "name": "Leagrave Hall Masjid",
@@ -181,5 +181,5 @@
       "hasData": true
     }
   ],
-  "lastUpdated": "2026-06-22T01:07:21.813Z"
+  "lastUpdated": "2026-06-23T00:56:58.762Z"
 }

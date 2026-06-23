@@ -1,6 +1,79 @@
 {
   "mosqueName": "Kokni Masjid",
-  "timings": [],
-  "lastChecked": "2026-06-22T01:07:12.983Z",
+  "timings": [
+    {
+      "day": "Tuesday",
+      "date": "23-06-2026",
+      "fajr": "03:30",
+      "zuhr": "13:30",
+      "asr": "18:00",
+      "magrib": "21:28",
+      "isha": "23:00"
+    },
+    {
+      "day": "Wednesday",
+      "date": "24-06-2026",
+      "fajr": "03:30",
+      "zuhr": "13:30",
+      "asr": "18:00",
+      "magrib": "21:28",
+      "isha": "23:00"
+    },
+    {
+      "day": "Thursday",
+      "date": "25-06-2026",
+      "fajr": "03:30",
+      "zuhr": "13:30",
+      "asr": "18:00",
+      "magrib": "21:28",
+      "isha": "23:00"
+    },
+    {
+      "day": "Friday",
+      "date": "26-06-2026",
+      "fajr": "03:30",
+      "zuhr": "13:30",
+      "asr": "18:00",
+      "magrib": "21:28",
+      "isha": "23:00"
+    },
+    {
+      "day": "Saturday",
+      "date": "27-06-2026",
+      "fajr": "03:30",
+      "zuhr": "13:30",
+      "asr": "18:00",
+      "magrib": "21:28",
+      "isha": "23:00"
+    },
+    {
+      "day": "Sunday",
+      "date": "28-06-2026",
+      "fajr": "03:30",
+      "zuhr": "13:30",
+      "asr": "18:00",
+      "magrib": "21:28",
+      "isha": "23:00"
+    },
+    {
+      "day": "Monday",
+      "date": "29-06-2026",
+      "fajr": "03:30",
+      "zuhr": "13:30",
+      "asr": "18:00",
+      "magrib": "21:28",
+      "isha": "23:00"
+    },
+    {
+      "day": "Tuesday",
+      "date": "30-06-2026",
+      "fajr": "03:30",
+      "zuhr": "13:30",
+      "asr": "18:00",
+      "magrib": "21:27",
+      "isha": "23:00"
+    }
+  ],
+  "lastChecked": "2026-06-23T00:56:25.577Z",
   "isStale": false
 }
