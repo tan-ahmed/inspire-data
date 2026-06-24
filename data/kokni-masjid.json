@@ -2,15 +2,6 @@
   "mosqueName": "Kokni Masjid",
   "timings": [
     {
-      "day": "Tuesday",
-      "date": "23-06-2026",
-      "fajr": "03:30",
-      "zuhr": "13:30",
-      "asr": "18:00",
-      "magrib": "21:28",
-      "isha": "23:00"
-    },
-    {
       "day": "Wednesday",
       "date": "24-06-2026",
       "fajr": "03:30",
@@ -74,6 +65,6 @@
       "isha": "23:00"
     }
   ],
-  "lastChecked": "2026-06-23T00:56:25.577Z",
+  "lastChecked": "2026-06-24T00:54:10.542Z",
   "isStale": false
 }
