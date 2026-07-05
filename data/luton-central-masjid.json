@@ -2,15 +2,6 @@
   "mosqueName": "Luton Central Masjid",
   "timings": [
     {
-      "day": "Saturday",
-      "date": "04-07-2026",
-      "fajr": "04:15",
-      "zuhr": "14:00",
-      "asr": "19:00",
-      "magrib": "21:26",
-      "isha": "23:00"
-    },
-    {
       "day": "Sunday",
       "date": "05-07-2026",
       "fajr": "04:15",
@@ -254,6 +245,6 @@
       "isha": "22:30"
     }
   ],
-  "lastChecked": "2026-07-04T03:19:28.406Z",
+  "lastChecked": "2026-07-05T03:35:28.483Z",
   "isStale": false
 }
