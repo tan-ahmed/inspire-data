@@ -2,15 +2,114 @@
   "mosqueName": "Masjid Irshad",
   "timings": [
     {
-      "day": "Sunday",
-      "date": "19-07-2026",
-      "fajr": "04:30",
+      "day": "Monday",
+      "date": "20-07-2026",
+      "fajr": "04:40",
       "zuhr": "13:30",
       "asr": "19:00",
-      "magrib": "21:13",
-      "isha": "22:40"
+      "magrib": "",
+      "isha": "22:30"
+    },
+    {
+      "day": "Tuesday",
+      "date": "21-07-2026",
+      "fajr": "04:40",
+      "zuhr": "13:30",
+      "asr": "19:00",
+      "magrib": "",
+      "isha": "22:30"
+    },
+    {
+      "day": "Wednesday",
+      "date": "22-07-2026",
+      "fajr": "04:40",
+      "zuhr": "13:30",
+      "asr": "19:00",
+      "magrib": "",
+      "isha": "22:30"
+    },
+    {
+      "day": "Thursday",
+      "date": "23-07-2026",
+      "fajr": "04:40",
+      "zuhr": "13:30",
+      "asr": "19:00",
+      "magrib": "",
+      "isha": "22:30"
+    },
+    {
+      "day": "Friday",
+      "date": "24-07-2026",
+      "fajr": "04:40",
+      "zuhr": "13:30   14:15",
+      "asr": "19:00",
+      "magrib": "",
+      "isha": "22:30"
+    },
+    {
+      "day": "Saturday",
+      "date": "25-07-2026",
+      "fajr": "04:40",
+      "zuhr": "13:30",
+      "asr": "19:00",
+      "magrib": "",
+      "isha": "22:30"
+    },
+    {
+      "day": "Sunday",
+      "date": "26-07-2026",
+      "fajr": "04:40",
+      "zuhr": "13:30",
+      "asr": "19:00",
+      "magrib": "",
+      "isha": "22:30"
+    },
+    {
+      "day": "Monday",
+      "date": "27-07-2026",
+      "fajr": "04:45",
+      "zuhr": "13:30",
+      "asr": "19:00",
+      "magrib": "",
+      "isha": "22:15"
+    },
+    {
+      "day": "Tuesday",
+      "date": "28-07-2026",
+      "fajr": "04:45",
+      "zuhr": "13:30",
+      "asr": "19:00",
+      "magrib": "",
+      "isha": "22:15"
+    },
+    {
+      "day": "Wednesday",
+      "date": "29-07-2026",
+      "fajr": "04:45",
+      "zuhr": "13:30",
+      "asr": "19:00",
+      "magrib": "",
+      "isha": "22:15"
+    },
+    {
+      "day": "Thursday",
+      "date": "30-07-2026",
+      "fajr": "04:45",
+      "zuhr": "13:30",
+      "asr": "19:00",
+      "magrib": "",
+      "isha": "22:15"
+    },
+    {
+      "day": "Friday",
+      "date": "31-07-2026",
+      "fajr": "04:45",
+      "zuhr": "13:30   14:15",
+      "asr": "19:00",
+      "magrib": "",
+      "isha": "22:15"
     }
   ],
-  "lastChecked": "2026-07-19T02:51:22.915Z",
+  "lastChecked": "2026-07-20T03:20:32.139Z",
   "isStale": false
 }
