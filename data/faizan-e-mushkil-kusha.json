@@ -2,15 +2,6 @@
   "mosqueName": "Faizan-e-Mushkil Kusha",
   "timings": [
     {
-      "day": "Thursday",
-      "date": "30-07-2026",
-      "fajr": "04:45",
-      "zuhr": "13:35",
-      "asr": "19:50",
-      "magrib": "20:58",
-      "isha": "22:45"
-    },
-    {
       "day": "Friday",
       "date": "31-07-2026",
       "fajr": "04:45",
@@ -20,6 +11,6 @@
       "isha": "22:45"
     }
   ],
-  "lastChecked": "2026-07-30T02:30:44.557Z",
+  "lastChecked": "2026-07-31T02:55:35.209Z",
   "isStale": false
 }
